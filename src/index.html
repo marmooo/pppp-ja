@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="ja">
+  <head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="日本語の助詞をパズルで学ぶアプリです。">
+    <title>助詞パズル</title>
+    <meta property="og:title" content="助詞パズル">
+    <meta property="og:site_name" content="助詞パズル">
+    <meta property="og:description" content="日本語の助詞をパズルで学ぶアプリです。">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://marmooo.github.io/pppp-ja/">
+    <meta property="og:image" content="https://marmooo.github.io/pppp-ja/favicon/apple-touch-icon.png">
+    <meta name="twitter:card" content="summary">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F2179JXDYY"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-F2179JXDYY');
+    </script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+          navigator.serviceWorker.register('/pppp-ja/sw.js');
+        });
+      }
+    </script>
+    <link rel="icon" type="image/png" href="/pppp-ja/favicon/favicon.png">
+    <link rel="icon" type="image/svg+xml" href="/pppp-ja/favicon/favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="/pppp-ja/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/pppp-ja/favicon/site.webmanifest">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <style>
+      @font-face {
+        font-family: textar-light;
+        src: local('Textar'),
+          url('https://marmooo.github.io/fonts/textar-light.woff2') format('woff2');
+        font-display: swap;
+      }
+      .choice { touch-action:manipulation; }
+      html,body { height:100%; }
+      pre.aa {
+        font-size: 1rem;
+        display: inline-block;
+        overflow: hidden;
+        text-align: left;
+        font-family: textar-light;
+        line-height: 1.1;
+        white-space: pre;
+        word-wrap: normal;
+      }
+      #counter {
+        font-size:10rem; width:12rem; height:12rem; line-height:12rem; border-radius: 50%;
+        background:tomato; margin:auto; }
+      #aaOuter { background:transparent; display:flex; align-items:center; justify-content:center; }
+      #aa { position:relative; top:0; left:0; margin:auto; }
+      #typePanel { word-wrap: break-word; }
+      html[data-theme="dark"] { filter: invert(1) hue-rotate(180deg); }
+      @-moz-document url-prefix() { html[data-theme="dark"] { background-color:black; } }
+    </style>
+    <script data-ad-client="ca-pub-6459713332128733" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-expand navbar-light">
+        <div class="container flex-wrap">
+          <a class="navbar-brand" href="/pppp-ja/">
+            <img alt="助詞パズル" src="/pppp-ja/favicon/favicon.svg" width="32" height="32">
+            助詞パズル
+          </a>
+          <div class="navbar-nav">
+            <button title="音楽を再生" id="toggleBGM" class="btn p-0" type="button">
+              <svg id="bgmOn" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/></svg>
+              <svg id="bgmOff" class="d-none" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M4.27 3L3 4.27l9 9v.28c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4v-1.73L19.73 21 21 19.73 4.27 3zM14 7h4V3h-6v5.18l2 2z"/></svg>
+            </button>
+            <button title="ダークモード切替" id="toggleDarkMode" class="fs-4 btn p-0 ms-1" type="button">🌓</button>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <main class="container">
+      <noscript>
+        <div class="alert alert-warning">JavaScript を ON にしてください</div>
+      </noscript>
+      <div id="infoPanel">
+        <div class="row">
+          <div class="col-md">
+            <p>日本語の助詞をパズルで学ぶアプリです。</p>
+            <div class="d-flex">
+              <div class="notranslate">
+                <pre class="aa">|　 |彡⌒ ミ
+|　 |´・ω・`)
+|　 |.　⊂ ﾉ
+|　 |.j―ｕ'
+                </pre>
+              </div>
+              <div class="ps-2">2分でどれくらい解けるかな？</div>
+            </div>
+          </div>
+          <div class="col-md text-center">
+            <div class="alert alert-info">
+              <div class="d-flex flex-wrap justify-content-center">
+                <div class="h5 text-nowrap me-4 notranslate">
+                  <span id="time">120</span>
+                  <span> / 120 sec</span>
+                </div>
+              </div>
+              <div class="mt-2">
+                <button id="startButton" class="btn btn-lg btn-primary" type="button">スタート</button>
+                <button id="answerButton" class="btn btn-lg btn-secondary" type="button">こたえ</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="countPanel" class="text-center d-none notranslate">
+        <div id="counter"></div>
+        <pre class="aa">
+
+　　　　　　 　彡 ⌒ ミ
+　彡 ⌒ ミ 　(´・ω・`) 何が始まるんです？
+　（´・ω・彡 ⌒ ミ⊂ヽ
+O/　⊃（(´・ω・`)）　..）
+.（　つ_つ ﾟし-Ｊﾟ　ＵＵ
+        </pre>
+      </div>
+      <div id="scorePanel" class="text-center pb-3 d-none">
+        <div class="text-center py-3">
+          <h2>スコア:
+            <span class="ms-1 notranslate">
+              <span id="score"></span><span class="mx-1">/</span><span id="count"></span>
+            </span>
+          </h2>
+          <pre class="aa">　　　 彡 ⌒ ミ
+　　　（´・ω・`）　スコアだよ！
+　 /三/| ﾟＵﾟ|＼
+　　Ｕ （::::::::::::∪
+　　//三/|三|＼
+　　　∪　 ∪
+          </pre>
+        </div>
+      </div>
+      <div id="playPanel" class="text-center">
+        <div id="typePanel">
+          <div class="alert alert-info">
+            <div id="japanese" class="h2 notranslate">
+              <span>助詞</span>
+              <span class="btn btn-light btn-lg m-1 px-2 choice" data-answer="を">　</span>
+              <span>パズル</span>
+              <span class="btn btn-light btn-lg m-1 px-2 choice" data-answer="で">　</span>
+              <span>学ぼう！</span>
+            </div>
+            <p class="pt-3">当てはまる助詞を選んでください</p>
+            <div id="choices" class="notranslate">
+              <span class="btn btn-light btn-lg m-1 px-2 choice">を</span>
+              <span class="btn btn-light btn-lg m-1 px-2 choice">で</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer class="pt-4 alert text-center">
+      <div>
+        <a class="px-1" href="/">Home</a>
+        <a class="px-1" href="/terms/">Terms</a>
+        <a class="px-1" href="https://github.com/marmooo/pppp-ja">Contact</a>
+      </div>
+      <div class="text-muted">&copy; <a href="https://github.com/marmooo">marmooo</a>
+      </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+    <script src="index.js"></script>
+  </body>
+</html>
