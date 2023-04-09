@@ -57,9 +57,9 @@ function cleanupMorphemes(morphemes) {
   const result = [];
   morphemes.forEach((morpheme) => {
     const newMorpheme = {
-      "surface": morpheme.surface,
-      "feature": morpheme.feature,
-      "reading": morpheme.reading,
+      surface: morpheme.surface,
+      feature: morpheme.feature,
+      reading: morpheme.reading,
     };
     result.push(newMorpheme);
   });

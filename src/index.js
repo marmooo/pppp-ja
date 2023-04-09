@@ -4,7 +4,6 @@ const scorePanel = document.getElementById("scorePanel");
 const japanese = document.getElementById("japanese");
 const choices = document.getElementById("choices");
 const gameTime = 120;
-const mode = document.getElementById("mode");
 let gameTimer;
 // https://dova-s.jp/bgm/play17438.html
 const bgm = new Audio("mp3/bgm.mp3");
