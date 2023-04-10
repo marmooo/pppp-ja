@@ -1,4 +1,4 @@
-var CACHE_NAME = "2023-04-08 23:20";
+var CACHE_NAME = "2023-04-10 10:20";
 var urlsToCache = [
   "/pppp-ja/",
   "/pppp-ja/index.js",

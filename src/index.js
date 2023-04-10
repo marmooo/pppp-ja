@@ -10,7 +10,7 @@ const bgm = new Audio("mp3/bgm.mp3");
 bgm.volume = 0.1;
 bgm.loop = true;
 let problemCount = 0;
-let errorCount = 0;
+let incorrectCount = 0;
 let mistaken = false;
 let problems = [];
 let answerText;
@@ -97,7 +97,7 @@ function loadProblems() {
 
 function nextProblem() {
   problemCount += 1;
-  if (mistaken) errorCount += 1;
+  if (mistaken) incorrectCount += 1;
   mistaken = false;
   setProblem();
 }
@@ -263,7 +263,7 @@ function setProblem() {
 }
 
 function countdown() {
-  problemCount = errorCount = 0;
+  problemCount = incorrectCount = 0;
   countPanel.classList.remove("d-none");
   infoPanel.classList.add("d-none");
   playPanel.classList.add("d-none");
@@ -319,7 +319,7 @@ function initTime() {
 }
 
 function scoring() {
-  document.getElementById("score").textContent = problemCount - errorCount;
+  document.getElementById("score").textContent = problemCount - incorrectCount;
   document.getElementById("count").textContent = problemCount;
 }
 
