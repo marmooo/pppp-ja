@@ -109,7 +109,7 @@ function filterProblems(problems) {
   return problems.filter((morphemes) => {
     const count = morphemes
       .filter((morpheme) => morpheme.feature == "助詞").length;
-    if (count != 1) return true;
+    if (count > 1) return true;
   });
 }
 

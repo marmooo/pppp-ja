@@ -29146,5 +29146,11442 @@
 			"feature": "記号",
 			"reading": "。"
 		}
+	],
+	[
+		{
+			"surface": "したがって",
+			"feature": "接続詞",
+			"reading": "シタガッテ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "明日",
+			"feature": "名詞",
+			"reading": "アシタ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "休み",
+			"feature": "名詞",
+			"reading": "ヤスミ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "なり",
+			"feature": "動詞",
+			"reading": "ナリ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "しかしながら",
+			"feature": "接続詞",
+			"reading": "シカシナガラ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "彼女",
+			"feature": "名詞",
+			"reading": "カノジョ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "来週",
+			"feature": "名詞",
+			"reading": "ライシュウ"
+		},
+		{
+			"surface": "まで",
+			"feature": "助詞",
+			"reading": "マデ"
+		},
+		{
+			"surface": "滞在",
+			"feature": "名詞",
+			"reading": "タイザイ"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "つもり",
+			"feature": "名詞",
+			"reading": "ツモリ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "または",
+			"feature": "接続詞",
+			"reading": "マタハ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "別",
+			"feature": "名詞",
+			"reading": "ベツ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "日程",
+			"feature": "名詞",
+			"reading": "ニッテイ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "予約",
+			"feature": "名詞",
+			"reading": "ヨヤク"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "でき",
+			"feature": "動詞",
+			"reading": "デキ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "すなわち",
+			"feature": "接続詞",
+			"reading": "スナワチ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "私",
+			"feature": "名詞",
+			"reading": "ワタシ"
+		},
+		{
+			"surface": "たち",
+			"feature": "名詞",
+			"reading": "タチ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "新しい",
+			"feature": "形容詞",
+			"reading": "アタラシイ"
+		},
+		{
+			"surface": "戦略",
+			"feature": "名詞",
+			"reading": "センリャク"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "必要",
+			"feature": "名詞",
+			"reading": "ヒツヨウ"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "し",
+			"feature": "動詞",
+			"reading": "シ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "いる",
+			"feature": "動詞",
+			"reading": "イル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "逆",
+			"feature": "名詞",
+			"reading": "ギャク"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "その",
+			"feature": "連体詞",
+			"reading": "ソノ"
+		},
+		{
+			"surface": "商品",
+			"feature": "名詞",
+			"reading": "ショウヒン"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "評価",
+			"feature": "名詞",
+			"reading": "ヒョウカ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "高い",
+			"feature": "形容詞",
+			"reading": "タカイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "一方",
+			"feature": "接続詞",
+			"reading": "イッポウ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "彼女",
+			"feature": "名詞",
+			"reading": "カノジョ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "スポーツ",
+			"feature": "名詞",
+			"reading": "スポーツ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "興味",
+			"feature": "名詞",
+			"reading": "キョウミ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "ない",
+			"feature": "形容詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "しかし",
+			"feature": "接続詞",
+			"reading": "シカシ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "私",
+			"feature": "名詞",
+			"reading": "ワタシ"
+		},
+		{
+			"surface": "たち",
+			"feature": "名詞",
+			"reading": "タチ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "まだ",
+			"feature": "副詞",
+			"reading": "マダ"
+		},
+		{
+			"surface": "成功",
+			"feature": "名詞",
+			"reading": "セイコウ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "向かっ",
+			"feature": "動詞",
+			"reading": "ムカッ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "努力",
+			"feature": "名詞",
+			"reading": "ドリョク"
+		},
+		{
+			"surface": "し",
+			"feature": "動詞",
+			"reading": "シ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "い",
+			"feature": "動詞",
+			"reading": "イ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "しかも",
+			"feature": "接続詞",
+			"reading": "シカモ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "その",
+			"feature": "連体詞",
+			"reading": "ソノ"
+		},
+		{
+			"surface": "商品",
+			"feature": "名詞",
+			"reading": "ショウヒン"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "安く",
+			"feature": "形容詞",
+			"reading": "ヤスク"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "高",
+			"feature": "接頭詞",
+			"reading": "コウ"
+		},
+		{
+			"surface": "品質",
+			"feature": "名詞",
+			"reading": "ヒンシツ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "それ",
+			"feature": "名詞",
+			"reading": "ソレ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "比べ",
+			"feature": "動詞",
+			"reading": "クラベ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "あの",
+			"feature": "連体詞",
+			"reading": "アノ"
+		},
+		{
+			"surface": "店",
+			"feature": "名詞",
+			"reading": "ミセ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "とても",
+			"feature": "副詞",
+			"reading": "トテモ"
+		},
+		{
+			"surface": "高い",
+			"feature": "形容詞",
+			"reading": "タカイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "また",
+			"feature": "接続詞",
+			"reading": "マタ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "イベント",
+			"feature": "名詞",
+			"reading": "イベント"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "多く",
+			"feature": "名詞",
+			"reading": "オオク"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "人",
+			"feature": "名詞",
+			"reading": "ヒト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "参加",
+			"feature": "名詞",
+			"reading": "サンカ"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "だろ",
+			"feature": "助動詞",
+			"reading": "ダロ"
+		},
+		{
+			"surface": "う",
+			"feature": "助動詞",
+			"reading": "ウ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "つまり",
+			"feature": "接続詞",
+			"reading": "ツマリ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "私",
+			"feature": "名詞",
+			"reading": "ワタシ"
+		},
+		{
+			"surface": "たち",
+			"feature": "名詞",
+			"reading": "タチ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "すぐ",
+			"feature": "副詞",
+			"reading": "スグ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "行動",
+			"feature": "名詞",
+			"reading": "コウドウ"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "必要",
+			"feature": "名詞",
+			"reading": "ヒツヨウ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "ある",
+			"feature": "動詞",
+			"reading": "アル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "それ",
+			"feature": "名詞",
+			"reading": "ソレ"
+		},
+		{
+			"surface": "に対して",
+			"feature": "助詞",
+			"reading": "ニタイシテ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "彼女",
+			"feature": "名詞",
+			"reading": "カノジョ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "全く",
+			"feature": "副詞",
+			"reading": "マッタク"
+		},
+		{
+			"surface": "反応",
+			"feature": "名詞",
+			"reading": "ハンノウ"
+		},
+		{
+			"surface": "し",
+			"feature": "動詞",
+			"reading": "シ"
+		},
+		{
+			"surface": "なかっ",
+			"feature": "助動詞",
+			"reading": "ナカッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "逆",
+			"feature": "名詞",
+			"reading": "ギャク"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "部屋",
+			"feature": "名詞",
+			"reading": "ヘヤ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "広く",
+			"feature": "形容詞",
+			"reading": "ヒロク"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "明るい",
+			"feature": "形容詞",
+			"reading": "アカルイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "または",
+			"feature": "接続詞",
+			"reading": "マタハ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "別",
+			"feature": "名詞",
+			"reading": "ベツ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "方法",
+			"feature": "名詞",
+			"reading": "ホウホウ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "考える",
+			"feature": "動詞",
+			"reading": "カンガエル"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "でき",
+			"feature": "動詞",
+			"reading": "デキ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "一方",
+			"feature": "接続詞",
+			"reading": "イッポウ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "彼",
+			"feature": "名詞",
+			"reading": "カレ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "新しい",
+			"feature": "形容詞",
+			"reading": "アタラシイ"
+		},
+		{
+			"surface": "プロジェクト",
+			"feature": "名詞",
+			"reading": "プロジェクト"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "始め",
+			"feature": "動詞",
+			"reading": "ハジメ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "また",
+			"feature": "接続詞",
+			"reading": "マタ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "問題",
+			"feature": "名詞",
+			"reading": "モンダイ"
+		},
+		{
+			"surface": "について",
+			"feature": "助詞",
+			"reading": "ニツイテ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "後日",
+			"feature": "名詞",
+			"reading": "ゴジツ"
+		},
+		{
+			"surface": "議論",
+			"feature": "名詞",
+			"reading": "ギロン"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "し",
+			"feature": "動詞",
+			"reading": "シ"
+		},
+		{
+			"surface": "ましょ",
+			"feature": "助動詞",
+			"reading": "マショ"
+		},
+		{
+			"surface": "う",
+			"feature": "助動詞",
+			"reading": "ウ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "それ",
+			"feature": "名詞",
+			"reading": "ソレ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "かかわら",
+			"feature": "動詞",
+			"reading": "カカワラ"
+		},
+		{
+			"surface": "ず",
+			"feature": "助動詞",
+			"reading": "ズ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "彼女",
+			"feature": "名詞",
+			"reading": "カノジョ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "最高",
+			"feature": "名詞",
+			"reading": "サイコウ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "成績",
+			"feature": "名詞",
+			"reading": "セイセキ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "収め",
+			"feature": "動詞",
+			"reading": "オサメ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "すなわち",
+			"feature": "接続詞",
+			"reading": "スナワチ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "私",
+			"feature": "名詞",
+			"reading": "ワタシ"
+		},
+		{
+			"surface": "たち",
+			"feature": "名詞",
+			"reading": "タチ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "より",
+			"feature": "副詞",
+			"reading": "ヨリ"
+		},
+		{
+			"surface": "効果",
+			"feature": "名詞",
+			"reading": "コウカ"
+		},
+		{
+			"surface": "的",
+			"feature": "名詞",
+			"reading": "テキ"
+		},
+		{
+			"surface": "な",
+			"feature": "助動詞",
+			"reading": "ナ"
+		},
+		{
+			"surface": "方法",
+			"feature": "名詞",
+			"reading": "ホウホウ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "模索",
+			"feature": "名詞",
+			"reading": "モサク"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "必要",
+			"feature": "名詞",
+			"reading": "ヒツヨウ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "ある",
+			"feature": "動詞",
+			"reading": "アル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "それでも",
+			"feature": "接続詞",
+			"reading": "ソレデモ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "私",
+			"feature": "名詞",
+			"reading": "ワタシ"
+		},
+		{
+			"surface": "たち",
+			"feature": "名詞",
+			"reading": "タチ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "前向き",
+			"feature": "名詞",
+			"reading": "マエムキ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "考え",
+			"feature": "動詞",
+			"reading": "カンガエ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "い",
+			"feature": "動詞",
+			"reading": "イ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "それ",
+			"feature": "名詞",
+			"reading": "ソレ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "比べ",
+			"feature": "動詞",
+			"reading": "クラベ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "あなた",
+			"feature": "名詞",
+			"reading": "アナタ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "提案",
+			"feature": "名詞",
+			"reading": "テイアン"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "現実",
+			"feature": "名詞",
+			"reading": "ゲンジツ"
+		},
+		{
+			"surface": "的",
+			"feature": "名詞",
+			"reading": "テキ"
+		},
+		{
+			"surface": "で",
+			"feature": "助動詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "ない",
+			"feature": "助動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "しかも",
+			"feature": "接続詞",
+			"reading": "シカモ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "その",
+			"feature": "連体詞",
+			"reading": "ソノ"
+		},
+		{
+			"surface": "プロジェクト",
+			"feature": "名詞",
+			"reading": "プロジェクト"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "大",
+			"feature": "接頭詞",
+			"reading": "ダイ"
+		},
+		{
+			"surface": "成功",
+			"feature": "名詞",
+			"reading": "セイコウ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "収め",
+			"feature": "動詞",
+			"reading": "オサメ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "また",
+			"feature": "接続詞",
+			"reading": "マタ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "件",
+			"feature": "名詞",
+			"reading": "ケン"
+		},
+		{
+			"surface": "について",
+			"feature": "助詞",
+			"reading": "ニツイテ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "改めて",
+			"feature": "副詞",
+			"reading": "アラタメテ"
+		},
+		{
+			"surface": "ご",
+			"feature": "接頭詞",
+			"reading": "ゴ"
+		},
+		{
+			"surface": "連絡",
+			"feature": "名詞",
+			"reading": "レンラク"
+		},
+		{
+			"surface": "いたし",
+			"feature": "動詞",
+			"reading": "イタシ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "それ",
+			"feature": "名詞",
+			"reading": "ソレ"
+		},
+		{
+			"surface": "に対して",
+			"feature": "助詞",
+			"reading": "ニタイシテ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "彼",
+			"feature": "名詞",
+			"reading": "カレ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "強い",
+			"feature": "形容詞",
+			"reading": "ツヨイ"
+		},
+		{
+			"surface": "不満",
+			"feature": "名詞",
+			"reading": "フマン"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "示し",
+			"feature": "動詞",
+			"reading": "シメシ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "逆",
+			"feature": "名詞",
+			"reading": "ギャク"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "その",
+			"feature": "連体詞",
+			"reading": "ソノ"
+		},
+		{
+			"surface": "会社",
+			"feature": "名詞",
+			"reading": "カイシャ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "過去",
+			"feature": "名詞",
+			"reading": "カコ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "多く",
+			"feature": "名詞",
+			"reading": "オオク"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "問題",
+			"feature": "名詞",
+			"reading": "モンダイ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "抱え",
+			"feature": "動詞",
+			"reading": "カカエ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "い",
+			"feature": "動詞",
+			"reading": "イ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "それでも",
+			"feature": "接続詞",
+			"reading": "ソレデモ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "私",
+			"feature": "名詞",
+			"reading": "ワタシ"
+		},
+		{
+			"surface": "たち",
+			"feature": "名詞",
+			"reading": "タチ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "前向き",
+			"feature": "名詞",
+			"reading": "マエムキ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "考え",
+			"feature": "動詞",
+			"reading": "カンガエ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "改善",
+			"feature": "名詞",
+			"reading": "カイゼン"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "目指し",
+			"feature": "動詞",
+			"reading": "メザシ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "いる",
+			"feature": "動詞",
+			"reading": "イル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "または",
+			"feature": "接続詞",
+			"reading": "マタハ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "別",
+			"feature": "名詞",
+			"reading": "ベツ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "選択肢",
+			"feature": "名詞",
+			"reading": "センタクシ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "検討",
+			"feature": "名詞",
+			"reading": "ケントウ"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "でき",
+			"feature": "動詞",
+			"reading": "デキ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "今日",
+			"feature": "名詞",
+			"reading": "キョウ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "天気",
+			"feature": "名詞",
+			"reading": "テンキ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "良い",
+			"feature": "形容詞",
+			"reading": "ヨイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "しかし",
+			"feature": "接続詞",
+			"reading": "シカシ"
+		},
+		{
+			"surface": "外出",
+			"feature": "名詞",
+			"reading": "ガイシュツ"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "予定",
+			"feature": "名詞",
+			"reading": "ヨテイ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "あり",
+			"feature": "動詞",
+			"reading": "アリ"
+		},
+		{
+			"surface": "ませ",
+			"feature": "助動詞",
+			"reading": "マセ"
+		},
+		{
+			"surface": "ん",
+			"feature": "助動詞",
+			"reading": "ン"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼",
+			"feature": "名詞",
+			"reading": "カレ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "仕事",
+			"feature": "名詞",
+			"reading": "シゴト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "できる",
+			"feature": "動詞",
+			"reading": "デキル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "しかしながら",
+			"feature": "接続詞",
+			"reading": "シカシナガラ"
+		},
+		{
+			"surface": "チームワーク",
+			"feature": "名詞",
+			"reading": "チームワーク"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "苦手",
+			"feature": "名詞",
+			"reading": "ニガテ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "美味しい",
+			"feature": "形容詞",
+			"reading": "オイシイ"
+		},
+		{
+			"surface": "料理",
+			"feature": "名詞",
+			"reading": "リョウリ"
+		},
+		{
+			"surface": "だっ",
+			"feature": "助動詞",
+			"reading": "ダッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "量",
+			"feature": "名詞",
+			"reading": "リョウ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "少な",
+			"feature": "形容詞",
+			"reading": "スクナ"
+		},
+		{
+			"surface": "すぎ",
+			"feature": "動詞",
+			"reading": "スギ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "シャツ",
+			"feature": "名詞",
+			"reading": "シャツ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "デザイン",
+			"feature": "名詞",
+			"reading": "デザイン"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "良い",
+			"feature": "形容詞",
+			"reading": "ヨイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただし",
+			"feature": "接続詞",
+			"reading": "タダシ"
+		},
+		{
+			"surface": "素材",
+			"feature": "名詞",
+			"reading": "ソザイ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "あまり",
+			"feature": "副詞",
+			"reading": "アマリ"
+		},
+		{
+			"surface": "好み",
+			"feature": "名詞",
+			"reading": "コノミ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "ない",
+			"feature": "助動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "前回",
+			"feature": "名詞",
+			"reading": "ゼンカイ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "試合",
+			"feature": "名詞",
+			"reading": "シアイ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "勝っ",
+			"feature": "動詞",
+			"reading": "カッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "今回",
+			"feature": "名詞",
+			"reading": "コンカイ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "負け",
+			"feature": "動詞",
+			"reading": "マケ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼女",
+			"feature": "名詞",
+			"reading": "カノジョ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "頭",
+			"feature": "名詞",
+			"reading": "アタマ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "良い",
+			"feature": "形容詞",
+			"reading": "ヨイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただ",
+			"feature": "接続詞",
+			"reading": "タダ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "ときどき",
+			"feature": "副詞",
+			"reading": "トキドキ"
+		},
+		{
+			"surface": "忘れっぽい",
+			"feature": "形容詞",
+			"reading": "ワスレッポイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "私",
+			"feature": "名詞",
+			"reading": "ワタシ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "家",
+			"feature": "名詞",
+			"reading": "イエ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "静か",
+			"feature": "名詞",
+			"reading": "シズカ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただ",
+			"feature": "接続詞",
+			"reading": "タダ"
+		},
+		{
+			"surface": "最近",
+			"feature": "名詞",
+			"reading": "サイキン"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "工事",
+			"feature": "名詞",
+			"reading": "コウジ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "音",
+			"feature": "名詞",
+			"reading": "オト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "うるさい",
+			"feature": "形容詞",
+			"reading": "ウルサイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "映画",
+			"feature": "名詞",
+			"reading": "エイガ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "面白い",
+			"feature": "形容詞",
+			"reading": "オモシロイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "しかし",
+			"feature": "接続詞",
+			"reading": "シカシ"
+		},
+		{
+			"surface": "ラストシーン",
+			"feature": "名詞",
+			"reading": "ラストシーン"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "予想",
+			"feature": "名詞",
+			"reading": "ヨソウ"
+		},
+		{
+			"surface": "でき",
+			"feature": "動詞",
+			"reading": "デキ"
+		},
+		{
+			"surface": "すぎ",
+			"feature": "動詞",
+			"reading": "スギ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "いる",
+			"feature": "動詞",
+			"reading": "イル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼",
+			"feature": "名詞",
+			"reading": "カレ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "優秀",
+			"feature": "名詞",
+			"reading": "ユウシュウ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただ",
+			"feature": "接続詞",
+			"reading": "タダ"
+		},
+		{
+			"surface": "プレッシャー",
+			"feature": "名詞",
+			"reading": "プレッシャー"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "弱い",
+			"feature": "形容詞",
+			"reading": "ヨワイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼女",
+			"feature": "名詞",
+			"reading": "カノジョ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "誕生",
+			"feature": "名詞",
+			"reading": "タンジョウ"
+		},
+		{
+			"surface": "日",
+			"feature": "名詞",
+			"reading": "ビ"
+		},
+		{
+			"surface": "プレゼント",
+			"feature": "名詞",
+			"reading": "プレゼント"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "素晴らしかっ",
+			"feature": "形容詞",
+			"reading": "スバラシカッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただ",
+			"feature": "接続詞",
+			"reading": "タダ"
+		},
+		{
+			"surface": "値段",
+			"feature": "名詞",
+			"reading": "ネダン"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "高",
+			"feature": "形容詞",
+			"reading": "タカ"
+		},
+		{
+			"surface": "すぎ",
+			"feature": "動詞",
+			"reading": "スギ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "雨",
+			"feature": "名詞",
+			"reading": "アメ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "降っ",
+			"feature": "動詞",
+			"reading": "フッ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "いる",
+			"feature": "動詞",
+			"reading": "イル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "それでも",
+			"feature": "接続詞",
+			"reading": "ソレデモ"
+		},
+		{
+			"surface": "散歩",
+			"feature": "名詞",
+			"reading": "サンポ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "出かけ",
+			"feature": "動詞",
+			"reading": "デカケ"
+		},
+		{
+			"surface": "たい",
+			"feature": "助動詞",
+			"reading": "タイ"
+		},
+		{
+			"surface": "気分",
+			"feature": "名詞",
+			"reading": "キブン"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "今日",
+			"feature": "名詞",
+			"reading": "キョウ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "風",
+			"feature": "名詞",
+			"reading": "カゼ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "強い",
+			"feature": "形容詞",
+			"reading": "ツヨイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "しかしながら",
+			"feature": "接続詞",
+			"reading": "シカシナガラ"
+		},
+		{
+			"surface": "気温",
+			"feature": "名詞",
+			"reading": "キオン"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "高い",
+			"feature": "形容詞",
+			"reading": "タカイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼",
+			"feature": "名詞",
+			"reading": "カレ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "熱心",
+			"feature": "名詞",
+			"reading": "ネッシン"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "ときどき",
+			"feature": "副詞",
+			"reading": "トキドキ"
+		},
+		{
+			"surface": "無責任",
+			"feature": "名詞",
+			"reading": "ムセキニン"
+		},
+		{
+			"surface": "な",
+			"feature": "助動詞",
+			"reading": "ナ"
+		},
+		{
+			"surface": "行動",
+			"feature": "名詞",
+			"reading": "コウドウ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "とる",
+			"feature": "動詞",
+			"reading": "トル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼女",
+			"feature": "名詞",
+			"reading": "カノジョ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "歌声",
+			"feature": "名詞",
+			"reading": "ウタゴエ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "美しい",
+			"feature": "形容詞",
+			"reading": "ウツクシイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただ",
+			"feature": "接続詞",
+			"reading": "タダ"
+		},
+		{
+			"surface": "歌詞",
+			"feature": "名詞",
+			"reading": "カシ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "平凡",
+			"feature": "名詞",
+			"reading": "ヘイボン"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "暑い",
+			"feature": "形容詞",
+			"reading": "アツイ"
+		},
+		{
+			"surface": "日",
+			"feature": "名詞",
+			"reading": "ヒ"
+		},
+		{
+			"surface": "だっ",
+			"feature": "助動詞",
+			"reading": "ダッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "涼しい",
+			"feature": "形容詞",
+			"reading": "スズシイ"
+		},
+		{
+			"surface": "お",
+			"feature": "接頭詞",
+			"reading": "オ"
+		},
+		{
+			"surface": "店",
+			"feature": "名詞",
+			"reading": "ミセ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "過ごす",
+			"feature": "動詞",
+			"reading": "スゴス"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "でき",
+			"feature": "動詞",
+			"reading": "デキ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼",
+			"feature": "名詞",
+			"reading": "カレ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "話",
+			"feature": "名詞",
+			"reading": "ハナシ"
+		},
+		{
+			"surface": "上手",
+			"feature": "名詞",
+			"reading": "ジョウズ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "聞き上手",
+			"feature": "名詞",
+			"reading": "キキジョウズ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "ない",
+			"feature": "助動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "本",
+			"feature": "名詞",
+			"reading": "ホン"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "面白い",
+			"feature": "形容詞",
+			"reading": "オモシロイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただし",
+			"feature": "接続詞",
+			"reading": "タダシ"
+		},
+		{
+			"surface": "表紙",
+			"feature": "名詞",
+			"reading": "ヒョウシ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "デザイン",
+			"feature": "名詞",
+			"reading": "デザイン"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "派手",
+			"feature": "名詞",
+			"reading": "ハデ"
+		},
+		{
+			"surface": "すぎる",
+			"feature": "動詞",
+			"reading": "スギル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "勉強",
+			"feature": "名詞",
+			"reading": "ベンキョウ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "苦手",
+			"feature": "名詞",
+			"reading": "ニガテ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "運動",
+			"feature": "名詞",
+			"reading": "ウンドウ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "得意",
+			"feature": "名詞",
+			"reading": "トクイ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "私",
+			"feature": "名詞",
+			"reading": "ワタシ"
+		},
+		{
+			"surface": "たち",
+			"feature": "名詞",
+			"reading": "タチ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "仲",
+			"feature": "名詞",
+			"reading": "ナカ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "いい",
+			"feature": "形容詞",
+			"reading": "イイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただし",
+			"feature": "接続詞",
+			"reading": "タダシ"
+		},
+		{
+			"surface": "考え方",
+			"feature": "名詞",
+			"reading": "カンガエカタ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "異なる",
+			"feature": "動詞",
+			"reading": "コトナル"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "ある",
+			"feature": "動詞",
+			"reading": "アル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "靴",
+			"feature": "名詞",
+			"reading": "クツ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "履き",
+			"feature": "動詞",
+			"reading": "ハキ"
+		},
+		{
+			"surface": "やすい",
+			"feature": "形容詞",
+			"reading": "ヤスイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただ",
+			"feature": "接続詞",
+			"reading": "タダ"
+		},
+		{
+			"surface": "見た目",
+			"feature": "名詞",
+			"reading": "ミタメ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "地味",
+			"feature": "名詞",
+			"reading": "ジミ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼女",
+			"feature": "名詞",
+			"reading": "カノジョ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "穏やか",
+			"feature": "名詞",
+			"reading": "オダヤカ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "怒る",
+			"feature": "動詞",
+			"reading": "オコル"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "怖い",
+			"feature": "形容詞",
+			"reading": "コワイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼",
+			"feature": "名詞",
+			"reading": "カレ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "情熱",
+			"feature": "名詞",
+			"reading": "ジョウネツ"
+		},
+		{
+			"surface": "的",
+			"feature": "名詞",
+			"reading": "テキ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "ときどき",
+			"feature": "副詞",
+			"reading": "トキドキ"
+		},
+		{
+			"surface": "衝動",
+			"feature": "名詞",
+			"reading": "ショウドウ"
+		},
+		{
+			"surface": "的",
+			"feature": "名詞",
+			"reading": "テキ"
+		},
+		{
+			"surface": "な",
+			"feature": "助動詞",
+			"reading": "ナ"
+		},
+		{
+			"surface": "行動",
+			"feature": "名詞",
+			"reading": "コウドウ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "とる",
+			"feature": "動詞",
+			"reading": "トル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "カフェ",
+			"feature": "名詞",
+			"reading": "カフェ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "雰囲気",
+			"feature": "名詞",
+			"reading": "フンイキ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "良い",
+			"feature": "形容詞",
+			"reading": "ヨイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただ",
+			"feature": "接続詞",
+			"reading": "タダ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "コーヒー",
+			"feature": "名詞",
+			"reading": "コーヒー"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "味",
+			"feature": "名詞",
+			"reading": "アジ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "普通",
+			"feature": "名詞",
+			"reading": "フツウ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "花火",
+			"feature": "名詞",
+			"reading": "ハナビ"
+		},
+		{
+			"surface": "大会",
+			"feature": "名詞",
+			"reading": "タイカイ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "楽しい",
+			"feature": "形容詞",
+			"reading": "タノシイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただし",
+			"feature": "接続詞",
+			"reading": "タダシ"
+		},
+		{
+			"surface": "混雑",
+			"feature": "名詞",
+			"reading": "コンザツ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "嫌い",
+			"feature": "名詞",
+			"reading": "キライ"
+		},
+		{
+			"surface": "な",
+			"feature": "助動詞",
+			"reading": "ナ"
+		},
+		{
+			"surface": "人",
+			"feature": "名詞",
+			"reading": "ヒト"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "向か",
+			"feature": "動詞",
+			"reading": "ムカ"
+		},
+		{
+			"surface": "ない",
+			"feature": "助動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼",
+			"feature": "名詞",
+			"reading": "カレ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "人気",
+			"feature": "名詞",
+			"reading": "ニンキ"
+		},
+		{
+			"surface": "者",
+			"feature": "名詞",
+			"reading": "シャ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "本当",
+			"feature": "名詞",
+			"reading": "ホントウ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "友人",
+			"feature": "名詞",
+			"reading": "ユウジン"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "ほとんど",
+			"feature": "副詞",
+			"reading": "ホトンド"
+		},
+		{
+			"surface": "い",
+			"feature": "動詞",
+			"reading": "イ"
+		},
+		{
+			"surface": "ない",
+			"feature": "助動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "料理",
+			"feature": "名詞",
+			"reading": "リョウリ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "美味しい",
+			"feature": "形容詞",
+			"reading": "オイシイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただ",
+			"feature": "接続詞",
+			"reading": "タダ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "スパイス",
+			"feature": "名詞",
+			"reading": "スパイス"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "強",
+			"feature": "形容詞",
+			"reading": "ツヨ"
+		},
+		{
+			"surface": "すぎる",
+			"feature": "動詞",
+			"reading": "スギル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼女",
+			"feature": "名詞",
+			"reading": "カノジョ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "美人",
+			"feature": "名詞",
+			"reading": "ビジン"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "化粧",
+			"feature": "名詞",
+			"reading": "ケショウ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "落とす",
+			"feature": "動詞",
+			"reading": "オトス"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "全然",
+			"feature": "副詞",
+			"reading": "ゼンゼン"
+		},
+		{
+			"surface": "違う",
+			"feature": "動詞",
+			"reading": "チガウ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "今月",
+			"feature": "名詞",
+			"reading": "コンゲツ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "売上",
+			"feature": "名詞",
+			"reading": "ウリアゲ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "好調",
+			"feature": "名詞",
+			"reading": "コウチョウ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただ",
+			"feature": "接続詞",
+			"reading": "タダ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "来月",
+			"feature": "名詞",
+			"reading": "ライゲツ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "見通し",
+			"feature": "名詞",
+			"reading": "ミトオシ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "立た",
+			"feature": "動詞",
+			"reading": "タタ"
+		},
+		{
+			"surface": "ない",
+			"feature": "助動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼",
+			"feature": "名詞",
+			"reading": "カレ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "正直",
+			"feature": "名詞",
+			"reading": "ショウジキ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "口",
+			"feature": "名詞",
+			"reading": "クチ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "軽い",
+			"feature": "形容詞",
+			"reading": "カルイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼女",
+			"feature": "名詞",
+			"reading": "カノジョ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "派手",
+			"feature": "名詞",
+			"reading": "ハデ"
+		},
+		{
+			"surface": "な",
+			"feature": "助動詞",
+			"reading": "ナ"
+		},
+		{
+			"surface": "格好",
+			"feature": "名詞",
+			"reading": "カッコウ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "好き",
+			"feature": "名詞",
+			"reading": "スキ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "私",
+			"feature": "名詞",
+			"reading": "ワタシ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "地味",
+			"feature": "名詞",
+			"reading": "ジミ"
+		},
+		{
+			"surface": "な",
+			"feature": "助動詞",
+			"reading": "ナ"
+		},
+		{
+			"surface": "服装",
+			"feature": "名詞",
+			"reading": "フクソウ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "好き",
+			"feature": "名詞",
+			"reading": "スキ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "映画",
+			"feature": "名詞",
+			"reading": "エイガ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "感動",
+			"feature": "名詞",
+			"reading": "カンドウ"
+		},
+		{
+			"surface": "的",
+			"feature": "名詞",
+			"reading": "テキ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "長",
+			"feature": "形容詞",
+			"reading": "ナガ"
+		},
+		{
+			"surface": "すぎる",
+			"feature": "動詞",
+			"reading": "スギル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼",
+			"feature": "名詞",
+			"reading": "カレ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "おおらか",
+			"feature": "名詞",
+			"reading": "オオラカ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "気",
+			"feature": "名詞",
+			"reading": "キ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "短い",
+			"feature": "形容詞",
+			"reading": "ミジカイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "景色",
+			"feature": "名詞",
+			"reading": "ケシキ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "美しい",
+			"feature": "形容詞",
+			"reading": "ウツクシイ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "虫",
+			"feature": "名詞",
+			"reading": "ムシ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "多",
+			"feature": "形容詞",
+			"reading": "オオ"
+		},
+		{
+			"surface": "すぎる",
+			"feature": "動詞",
+			"reading": "スギル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼女",
+			"feature": "名詞",
+			"reading": "カノジョ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "誠実",
+			"feature": "名詞",
+			"reading": "セイジツ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "マイペース",
+			"feature": "名詞",
+			"reading": "マイペース"
+		},
+		{
+			"surface": "過ぎる",
+			"feature": "動詞",
+			"reading": "スギル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "バッグ",
+			"feature": "名詞",
+			"reading": "バッグ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "軽い",
+			"feature": "形容詞",
+			"reading": "カルイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただし",
+			"feature": "接続詞",
+			"reading": "タダシ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "収納",
+			"feature": "名詞",
+			"reading": "シュウノウ"
+		},
+		{
+			"surface": "力",
+			"feature": "名詞",
+			"reading": "リョク"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "少ない",
+			"feature": "形容詞",
+			"reading": "スクナイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼",
+			"feature": "名詞",
+			"reading": "カレ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "有名",
+			"feature": "名詞",
+			"reading": "ユウメイ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "自分勝手",
+			"feature": "名詞",
+			"reading": "ジブンガッテ"
+		},
+		{
+			"surface": "な",
+			"feature": "助動詞",
+			"reading": "ナ"
+		},
+		{
+			"surface": "人柄",
+			"feature": "名詞",
+			"reading": "ヒトガラ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "嫌い",
+			"feature": "名詞",
+			"reading": "キライ"
+		},
+		{
+			"surface": "な",
+			"feature": "助動詞",
+			"reading": "ナ"
+		},
+		{
+			"surface": "人",
+			"feature": "名詞",
+			"reading": "ヒト"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "いる",
+			"feature": "動詞",
+			"reading": "イル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "今月",
+			"feature": "名詞",
+			"reading": "コンゲツ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "予算",
+			"feature": "名詞",
+			"reading": "ヨサン"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "多い",
+			"feature": "形容詞",
+			"reading": "オオイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただし",
+			"feature": "接続詞",
+			"reading": "タダシ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "来月",
+			"feature": "名詞",
+			"reading": "ライゲツ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "少ない",
+			"feature": "形容詞",
+			"reading": "スクナイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼女",
+			"feature": "名詞",
+			"reading": "カノジョ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "賢い",
+			"feature": "形容詞",
+			"reading": "カシコイ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "計画",
+			"feature": "名詞",
+			"reading": "ケイカク"
+		},
+		{
+			"surface": "的",
+			"feature": "名詞",
+			"reading": "テキ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "行動",
+			"feature": "名詞",
+			"reading": "コウドウ"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "苦手",
+			"feature": "名詞",
+			"reading": "ニガテ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "アイスクリーム",
+			"feature": "名詞",
+			"reading": "アイスクリーム"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "美味しい",
+			"feature": "形容詞",
+			"reading": "オイシイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "ただ",
+			"feature": "接続詞",
+			"reading": "タダ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "値段",
+			"feature": "名詞",
+			"reading": "ネダン"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "高い",
+			"feature": "形容詞",
+			"reading": "タカイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "彼",
+			"feature": "名詞",
+			"reading": "カレ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "努力",
+			"feature": "名詞",
+			"reading": "ドリョク"
+		},
+		{
+			"surface": "家",
+			"feature": "名詞",
+			"reading": "カ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "時間",
+			"feature": "名詞",
+			"reading": "ジカン"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "ルーズ",
+			"feature": "名詞",
+			"reading": "ルーズ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "夏",
+			"feature": "名詞",
+			"reading": "ナツ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "暑い",
+			"feature": "形容詞",
+			"reading": "アツイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "しかし",
+			"feature": "接続詞",
+			"reading": "シカシ"
+		},
+		{
+			"surface": "海",
+			"feature": "名詞",
+			"reading": "ウミ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "泳ぐ",
+			"feature": "動詞",
+			"reading": "オヨグ"
+		},
+		{
+			"surface": "の",
+			"feature": "名詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "気持ちいい",
+			"feature": "形容詞",
+			"reading": "キモチイイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "お父さん",
+			"feature": "名詞",
+			"reading": "オトウサン"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "忙しい",
+			"feature": "形容詞",
+			"reading": "イソガシイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "だから",
+			"feature": "接続詞",
+			"reading": "ダカラ"
+		},
+		{
+			"surface": "お",
+			"feature": "接頭詞",
+			"reading": "オ"
+		},
+		{
+			"surface": "弁当",
+			"feature": "名詞",
+			"reading": "ベントウ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "作る",
+			"feature": "動詞",
+			"reading": "ツクル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "今日",
+			"feature": "名詞",
+			"reading": "キョウ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "晴れ",
+			"feature": "名詞",
+			"reading": "ハレ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "それで",
+			"feature": "接続詞",
+			"reading": "ソレデ"
+		},
+		{
+			"surface": "外",
+			"feature": "名詞",
+			"reading": "ソト"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "遊ぶ",
+			"feature": "動詞",
+			"reading": "アソブ"
+		},
+		{
+			"surface": "の",
+			"feature": "名詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "楽しい",
+			"feature": "形容詞",
+			"reading": "タノシイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "友達",
+			"feature": "名詞",
+			"reading": "トモダチ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "来る",
+			"feature": "動詞",
+			"reading": "クル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "だから",
+			"feature": "接続詞",
+			"reading": "ダカラ"
+		},
+		{
+			"surface": "お菓子",
+			"feature": "名詞",
+			"reading": "オカシ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "作ろ",
+			"feature": "動詞",
+			"reading": "ツクロ"
+		},
+		{
+			"surface": "う",
+			"feature": "助動詞",
+			"reading": "ウ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "学校",
+			"feature": "名詞",
+			"reading": "ガッコウ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "終わっ",
+			"feature": "動詞",
+			"reading": "オワッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "しかし",
+			"feature": "接続詞",
+			"reading": "シカシ"
+		},
+		{
+			"surface": "宿題",
+			"feature": "名詞",
+			"reading": "シュクダイ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "ある",
+			"feature": "動詞",
+			"reading": "アル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "趣味",
+			"feature": "名詞",
+			"reading": "シュミ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "絵",
+			"feature": "名詞",
+			"reading": "エ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "描く",
+			"feature": "動詞",
+			"reading": "エガク"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "したがって",
+			"feature": "接続詞",
+			"reading": "シタガッテ"
+		},
+		{
+			"surface": "絵",
+			"feature": "名詞",
+			"reading": "エ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "描く",
+			"feature": "動詞",
+			"reading": "エガク"
+		},
+		{
+			"surface": "時間",
+			"feature": "名詞",
+			"reading": "ジカン"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "作る",
+			"feature": "動詞",
+			"reading": "ツクル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "昨日",
+			"feature": "名詞",
+			"reading": "キノウ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "夜",
+			"feature": "名詞",
+			"reading": "ヨル"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "雨",
+			"feature": "名詞",
+			"reading": "アメ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "降っ",
+			"feature": "動詞",
+			"reading": "フッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "だから",
+			"feature": "接続詞",
+			"reading": "ダカラ"
+		},
+		{
+			"surface": "道",
+			"feature": "名詞",
+			"reading": "ミチ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "濡れ",
+			"feature": "動詞",
+			"reading": "ヌレ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "い",
+			"feature": "動詞",
+			"reading": "イ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ゲーム",
+			"feature": "名詞",
+			"reading": "ゲーム"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "の",
+			"feature": "名詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "好き",
+			"feature": "名詞",
+			"reading": "スキ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "しかし",
+			"feature": "接続詞",
+			"reading": "シカシ"
+		},
+		{
+			"surface": "宿題",
+			"feature": "名詞",
+			"reading": "シュクダイ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "ある",
+			"feature": "動詞",
+			"reading": "アル"
+		},
+		{
+			"surface": "から",
+			"feature": "助詞",
+			"reading": "カラ"
+		},
+		{
+			"surface": "先",
+			"feature": "名詞",
+			"reading": "サキ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "やろ",
+			"feature": "動詞",
+			"reading": "ヤロ"
+		},
+		{
+			"surface": "う",
+			"feature": "助動詞",
+			"reading": "ウ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "運動",
+			"feature": "名詞",
+			"reading": "ウンドウ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "苦手",
+			"feature": "名詞",
+			"reading": "ニガテ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "だけど",
+			"feature": "接続詞",
+			"reading": "ダケド"
+		},
+		{
+			"surface": "運動会",
+			"feature": "名詞",
+			"reading": "ウンドウカイ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "向け",
+			"feature": "動詞",
+			"reading": "ムケ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "練習",
+			"feature": "名詞",
+			"reading": "レンシュウ"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "猫",
+			"feature": "名詞",
+			"reading": "ネコ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "可愛い",
+			"feature": "形容詞",
+			"reading": "カワイイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "だから",
+			"feature": "接続詞",
+			"reading": "ダカラ"
+		},
+		{
+			"surface": "猫",
+			"feature": "名詞",
+			"reading": "ネコ"
+		},
+		{
+			"surface": "カフェ",
+			"feature": "名詞",
+			"reading": "カフェ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "行く",
+			"feature": "動詞",
+			"reading": "イク"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "誕生",
+			"feature": "名詞",
+			"reading": "タンジョウ"
+		},
+		{
+			"surface": "日",
+			"feature": "名詞",
+			"reading": "ビ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "プレゼント",
+			"feature": "名詞",
+			"reading": "プレゼント"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "もらっ",
+			"feature": "動詞",
+			"reading": "モラッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "だから",
+			"feature": "接続詞",
+			"reading": "ダカラ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "ありがとう",
+			"feature": "感動詞",
+			"reading": "アリガトウ"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "言っ",
+			"feature": "動詞",
+			"reading": "イッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "夏休み",
+			"feature": "名詞",
+			"reading": "ナツヤスミ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "旅行",
+			"feature": "名詞",
+			"reading": "リョコウ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "行っ",
+			"feature": "動詞",
+			"reading": "イッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "だけど",
+			"feature": "接続詞",
+			"reading": "ダケド"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "台風",
+			"feature": "名詞",
+			"reading": "タイフウ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "海",
+			"feature": "名詞",
+			"reading": "ウミ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "入れ",
+			"feature": "動詞",
+			"reading": "イレ"
+		},
+		{
+			"surface": "なかっ",
+			"feature": "助動詞",
+			"reading": "ナカッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "サッカー",
+			"feature": "名詞",
+			"reading": "サッカー"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "試合",
+			"feature": "名詞",
+			"reading": "シアイ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "出る",
+			"feature": "動詞",
+			"reading": "デル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "しかし",
+			"feature": "接続詞",
+			"reading": "シカシ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "相手",
+			"feature": "名詞",
+			"reading": "アイテ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "強い",
+			"feature": "形容詞",
+			"reading": "ツヨイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "姉妹",
+			"feature": "名詞",
+			"reading": "シマイ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "お茶",
+			"feature": "名詞",
+			"reading": "オチャ"
+		},
+		{
+			"surface": "会",
+			"feature": "名詞",
+			"reading": "カイ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "だから",
+			"feature": "接続詞",
+			"reading": "ダカラ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "お菓子",
+			"feature": "名詞",
+			"reading": "オカシ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "作る",
+			"feature": "動詞",
+			"reading": "ツクル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "テスト",
+			"feature": "名詞",
+			"reading": "テスト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "難しかっ",
+			"feature": "形容詞",
+			"reading": "ムズカシカッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "だけど",
+			"feature": "接続詞",
+			"reading": "ダケド"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "頑張っ",
+			"feature": "動詞",
+			"reading": "ガンバッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "から",
+			"feature": "助詞",
+			"reading": "カラ"
+		},
+		{
+			"surface": "合格",
+			"feature": "名詞",
+			"reading": "ゴウカク"
+		},
+		{
+			"surface": "し",
+			"feature": "動詞",
+			"reading": "シ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "お",
+			"feature": "接頭詞",
+			"reading": "オ"
+		},
+		{
+			"surface": "ばあちゃん",
+			"feature": "名詞",
+			"reading": "バアチャン"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "来る",
+			"feature": "動詞",
+			"reading": "クル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "だから",
+			"feature": "接続詞",
+			"reading": "ダカラ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "掃除",
+			"feature": "名詞",
+			"reading": "ソウジ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "パーティー",
+			"feature": "名詞",
+			"reading": "パーティー"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "招待",
+			"feature": "名詞",
+			"reading": "ショウタイ"
+		},
+		{
+			"surface": "さ",
+			"feature": "動詞",
+			"reading": "サ"
+		},
+		{
+			"surface": "れ",
+			"feature": "動詞",
+			"reading": "レ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "しかし",
+			"feature": "接続詞",
+			"reading": "シカシ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "ドレス",
+			"feature": "名詞",
+			"reading": "ドレス"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "ない",
+			"feature": "形容詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "雪",
+			"feature": "名詞",
+			"reading": "ユキ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "降っ",
+			"feature": "動詞",
+			"reading": "フッ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "き",
+			"feature": "動詞",
+			"reading": "キ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "だから",
+			"feature": "接続詞",
+			"reading": "ダカラ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "雪だるま",
+			"feature": "名詞",
+			"reading": "ユキダルマ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "作る",
+			"feature": "動詞",
+			"reading": "ツクル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ハンバーガー",
+			"feature": "名詞",
+			"reading": "ハンバーガー"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "作る",
+			"feature": "動詞",
+			"reading": "ツクル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "だから",
+			"feature": "接続詞",
+			"reading": "ダカラ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "たくさん",
+			"feature": "名詞",
+			"reading": "タクサン"
+		},
+		{
+			"surface": "具",
+			"feature": "名詞",
+			"reading": "グ"
+		},
+		{
+			"surface": "材",
+			"feature": "名詞",
+			"reading": "ザイ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "用意",
+			"feature": "名詞",
+			"reading": "ヨウイ"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "旅行",
+			"feature": "名詞",
+			"reading": "リョコウ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "計画",
+			"feature": "名詞",
+			"reading": "ケイカク"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "だけど",
+			"feature": "接続詞",
+			"reading": "ダケド"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "どこ",
+			"feature": "名詞",
+			"reading": "ドコ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "行こ",
+			"feature": "動詞",
+			"reading": "イコ"
+		},
+		{
+			"surface": "う",
+			"feature": "助動詞",
+			"reading": "ウ"
+		},
+		{
+			"surface": "か",
+			"feature": "助詞",
+			"reading": "カ"
+		},
+		{
+			"surface": "迷う",
+			"feature": "動詞",
+			"reading": "マヨウ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "友達",
+			"feature": "名詞",
+			"reading": "トモダチ"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "一緒",
+			"feature": "名詞",
+			"reading": "イッショ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "買い物",
+			"feature": "名詞",
+			"reading": "カイモノ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "行く",
+			"feature": "動詞",
+			"reading": "イク"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "だけど",
+			"feature": "接続詞",
+			"reading": "ダケド"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "お金",
+			"feature": "名詞",
+			"reading": "オカネ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "ない",
+			"feature": "形容詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "スポーツ",
+			"feature": "名詞",
+			"reading": "スポーツ"
+		},
+		{
+			"surface": "大会",
+			"feature": "名詞",
+			"reading": "タイカイ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "ある",
+			"feature": "動詞",
+			"reading": "アル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		},
+		{
+			"surface": "だから",
+			"feature": "接続詞",
+			"reading": "ダカラ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "練習",
+			"feature": "名詞",
+			"reading": "レンシュウ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ああ",
+			"feature": "感動詞",
+			"reading": "アア"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "これ",
+			"feature": "名詞",
+			"reading": "コレ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "夢",
+			"feature": "名詞",
+			"reading": "ユメ"
+		},
+		{
+			"surface": "じゃ",
+			"feature": "助詞",
+			"reading": "ジャ"
+		},
+		{
+			"surface": "ない",
+			"feature": "助動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "信じ",
+			"feature": "動詞",
+			"reading": "シンジ"
+		},
+		{
+			"surface": "られ",
+			"feature": "動詞",
+			"reading": "ラレ"
+		},
+		{
+			"surface": "ない",
+			"feature": "助動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "えっ",
+			"feature": "感動詞",
+			"reading": "エッ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "あなた",
+			"feature": "名詞",
+			"reading": "アナタ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "その",
+			"feature": "連体詞",
+			"reading": "ソノ"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "知っ",
+			"feature": "動詞",
+			"reading": "シッ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "いる",
+			"feature": "動詞",
+			"reading": "イル"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "信じ",
+			"feature": "動詞",
+			"reading": "シンジ"
+		},
+		{
+			"surface": "られ",
+			"feature": "動詞",
+			"reading": "ラレ"
+		},
+		{
+			"surface": "ない",
+			"feature": "助動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "さあ",
+			"feature": "感動詞",
+			"reading": "サア"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "早く",
+			"feature": "形容詞",
+			"reading": "ハヤク"
+		},
+		{
+			"surface": "行か",
+			"feature": "動詞",
+			"reading": "イカ"
+		},
+		{
+			"surface": "ない",
+			"feature": "助動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "遅れる",
+			"feature": "動詞",
+			"reading": "オクレル"
+		},
+		{
+			"surface": "よ",
+			"feature": "助詞",
+			"reading": "ヨ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "あら",
+			"feature": "感動詞",
+			"reading": "アラ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "あなた",
+			"feature": "名詞",
+			"reading": "アナタ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "こんなに",
+			"feature": "副詞",
+			"reading": "コンナニ"
+		},
+		{
+			"surface": "成長",
+			"feature": "名詞",
+			"reading": "セイチョウ"
+		},
+		{
+			"surface": "し",
+			"feature": "動詞",
+			"reading": "シ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "なんて",
+			"feature": "助詞",
+			"reading": "ナンテ"
+		},
+		{
+			"surface": "驚き",
+			"feature": "名詞",
+			"reading": "オドロキ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "うん",
+			"feature": "感動詞",
+			"reading": "ウン"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "その",
+			"feature": "連体詞",
+			"reading": "ソノ"
+		},
+		{
+			"surface": "考え",
+			"feature": "名詞",
+			"reading": "カンガエ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "良い",
+			"feature": "形容詞",
+			"reading": "ヨイ"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "思う",
+			"feature": "動詞",
+			"reading": "オモウ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ええ",
+			"feature": "感動詞",
+			"reading": "エエ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "その",
+			"feature": "連体詞",
+			"reading": "ソノ"
+		},
+		{
+			"surface": "提案",
+			"feature": "名詞",
+			"reading": "テイアン"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "賛成",
+			"feature": "名詞",
+			"reading": "サンセイ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "おお",
+			"feature": "感動詞",
+			"reading": "オオ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "これ",
+			"feature": "名詞",
+			"reading": "コレ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "まるで",
+			"feature": "副詞",
+			"reading": "マルデ"
+		},
+		{
+			"surface": "絵画",
+			"feature": "名詞",
+			"reading": "カイガ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "よう",
+			"feature": "名詞",
+			"reading": "ヨウ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "もしもし",
+			"feature": "感動詞",
+			"reading": "モシモシ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "あなた",
+			"feature": "名詞",
+			"reading": "アナタ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "急ぎ",
+			"feature": "名詞",
+			"reading": "イソギ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "用件",
+			"feature": "名詞",
+			"reading": "ヨウケン"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "あり",
+			"feature": "動詞",
+			"reading": "アリ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "あら",
+			"feature": "感動詞",
+			"reading": "アラ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "お菓子",
+			"feature": "名詞",
+			"reading": "オカシ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "美味しい",
+			"feature": "形容詞",
+			"reading": "オイシイ"
+		},
+		{
+			"surface": "わ",
+			"feature": "助詞",
+			"reading": "ワ"
+		},
+		{
+			"surface": "ね",
+			"feature": "助詞",
+			"reading": "ネ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "えっ",
+			"feature": "感動詞",
+			"reading": "エッ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "こんな",
+			"feature": "連体詞",
+			"reading": "コンナ"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "本当に",
+			"feature": "副詞",
+			"reading": "ホントウニ"
+		},
+		{
+			"surface": "起き",
+			"feature": "動詞",
+			"reading": "オキ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "？",
+			"feature": "記号",
+			"reading": "？"
+		}
+	],
+	[
+		{
+			"surface": "ああ",
+			"feature": "感動詞",
+			"reading": "アア"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "感動",
+			"feature": "名詞",
+			"reading": "カンドウ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "何",
+			"feature": "名詞",
+			"reading": "ナニ"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "表現",
+			"feature": "名詞",
+			"reading": "ヒョウゲン"
+		},
+		{
+			"surface": "す",
+			"feature": "動詞",
+			"reading": "ス"
+		},
+		{
+			"surface": "べき",
+			"feature": "助動詞",
+			"reading": "ベキ"
+		},
+		{
+			"surface": "か",
+			"feature": "助詞",
+			"reading": "カ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ねえ",
+			"feature": "感動詞",
+			"reading": "ネエ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "君",
+			"feature": "名詞",
+			"reading": "クン"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "話",
+			"feature": "名詞",
+			"reading": "ハナシ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "ある",
+			"feature": "動詞",
+			"reading": "アル"
+		},
+		{
+			"surface": "ん",
+			"feature": "名詞",
+			"reading": "ン"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "けど",
+			"feature": "助詞",
+			"reading": "ケド"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "聞い",
+			"feature": "動詞",
+			"reading": "キイ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "くれる",
+			"feature": "動詞",
+			"reading": "クレル"
+		},
+		{
+			"surface": "？",
+			"feature": "記号",
+			"reading": "？"
+		}
+	],
+	[
+		{
+			"surface": "はい",
+			"feature": "感動詞",
+			"reading": "ハイ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "その",
+			"feature": "連体詞",
+			"reading": "ソノ"
+		},
+		{
+			"surface": "件",
+			"feature": "名詞",
+			"reading": "ケン"
+		},
+		{
+			"surface": "について",
+			"feature": "助詞",
+			"reading": "ニツイテ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "既に",
+			"feature": "副詞",
+			"reading": "スデニ"
+		},
+		{
+			"surface": "承知",
+			"feature": "名詞",
+			"reading": "ショウチ"
+		},
+		{
+			"surface": "し",
+			"feature": "動詞",
+			"reading": "シ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "い",
+			"feature": "動詞",
+			"reading": "イ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ええ",
+			"feature": "感動詞",
+			"reading": "エエ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "それで",
+			"feature": "接続詞",
+			"reading": "ソレデ"
+		},
+		{
+			"surface": "私",
+			"feature": "名詞",
+			"reading": "ワタシ"
+		},
+		{
+			"surface": "たち",
+			"feature": "名詞",
+			"reading": "タチ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "問題",
+			"feature": "名詞",
+			"reading": "モンダイ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "解決",
+			"feature": "名詞",
+			"reading": "カイケツ"
+		},
+		{
+			"surface": "できる",
+			"feature": "動詞",
+			"reading": "デキル"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "思い",
+			"feature": "動詞",
+			"reading": "オモイ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "うん",
+			"feature": "感動詞",
+			"reading": "ウン"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "これ",
+			"feature": "名詞",
+			"reading": "コレ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "君",
+			"feature": "名詞",
+			"reading": "キミ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "問題",
+			"feature": "名詞",
+			"reading": "モンダイ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "解決",
+			"feature": "名詞",
+			"reading": "カイケツ"
+		},
+		{
+			"surface": "できる",
+			"feature": "動詞",
+			"reading": "デキル"
+		},
+		{
+			"surface": "よ",
+			"feature": "助詞",
+			"reading": "ヨ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ああ",
+			"feature": "感動詞",
+			"reading": "アア"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "あなた",
+			"feature": "名詞",
+			"reading": "アナタ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "そこ",
+			"feature": "名詞",
+			"reading": "ソコ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "いる",
+			"feature": "動詞",
+			"reading": "イル"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "思わ",
+			"feature": "動詞",
+			"reading": "オモワ"
+		},
+		{
+			"surface": "なかっ",
+			"feature": "助動詞",
+			"reading": "ナカッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ええ",
+			"feature": "感動詞",
+			"reading": "エエ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "その",
+			"feature": "連体詞",
+			"reading": "ソノ"
+		},
+		{
+			"surface": "提案",
+			"feature": "名詞",
+			"reading": "テイアン"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "私",
+			"feature": "名詞",
+			"reading": "ワタシ"
+		},
+		{
+			"surface": "にとって",
+			"feature": "助詞",
+			"reading": "ニトッテ"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "魅力",
+			"feature": "名詞",
+			"reading": "ミリョク"
+		},
+		{
+			"surface": "的",
+			"feature": "名詞",
+			"reading": "テキ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "もし",
+			"feature": "副詞",
+			"reading": "モシ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "何",
+			"feature": "名詞",
+			"reading": "ナニ"
+		},
+		{
+			"surface": "か",
+			"feature": "助詞",
+			"reading": "カ"
+		},
+		{
+			"surface": "手伝う",
+			"feature": "動詞",
+			"reading": "テツダウ"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "あっ",
+			"feature": "動詞",
+			"reading": "アッ"
+		},
+		{
+			"surface": "たら",
+			"feature": "助動詞",
+			"reading": "タラ"
+		},
+		{
+			"surface": "言っ",
+			"feature": "動詞",
+			"reading": "イッ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "ね",
+			"feature": "助詞",
+			"reading": "ネ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "おお",
+			"feature": "感動詞",
+			"reading": "オオ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "これ",
+			"feature": "名詞",
+			"reading": "コレ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "今",
+			"feature": "名詞",
+			"reading": "イマ"
+		},
+		{
+			"surface": "まで",
+			"feature": "助詞",
+			"reading": "マデ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "最高",
+			"feature": "名詞",
+			"reading": "サイコウ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "瞬間",
+			"feature": "名詞",
+			"reading": "シュンカン"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "あら",
+			"feature": "感動詞",
+			"reading": "アラ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "今日",
+			"feature": "名詞",
+			"reading": "キョウ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "服装",
+			"feature": "名詞",
+			"reading": "フクソウ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "本当に",
+			"feature": "副詞",
+			"reading": "ホントウニ"
+		},
+		{
+			"surface": "素敵",
+			"feature": "名詞",
+			"reading": "ステキ"
+		},
+		{
+			"surface": "ね",
+			"feature": "助詞",
+			"reading": "ネ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "えっ",
+			"feature": "感動詞",
+			"reading": "エッ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "こんな",
+			"feature": "連体詞",
+			"reading": "コンナ"
+		},
+		{
+			"surface": "素晴らしい",
+			"feature": "形容詞",
+			"reading": "スバラシイ"
+		},
+		{
+			"surface": "ニュース",
+			"feature": "名詞",
+			"reading": "ニュース"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "聞い",
+			"feature": "動詞",
+			"reading": "キイ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "いい",
+			"feature": "形容詞",
+			"reading": "イイ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "？",
+			"feature": "記号",
+			"reading": "？"
+		}
+	],
+	[
+		{
+			"surface": "やれやれ",
+			"feature": "感動詞",
+			"reading": "ヤレヤレ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "あなた",
+			"feature": "名詞",
+			"reading": "アナタ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "いつも",
+			"feature": "副詞",
+			"reading": "イツモ"
+		},
+		{
+			"surface": "面倒",
+			"feature": "名詞",
+			"reading": "メンドウ"
+		},
+		{
+			"surface": "な",
+			"feature": "助動詞",
+			"reading": "ナ"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "起こす",
+			"feature": "動詞",
+			"reading": "オコス"
+		},
+		{
+			"surface": "わ",
+			"feature": "助詞",
+			"reading": "ワ"
+		},
+		{
+			"surface": "ね",
+			"feature": "助詞",
+			"reading": "ネ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ああ",
+			"feature": "感動詞",
+			"reading": "アア"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "場所",
+			"feature": "名詞",
+			"reading": "バショ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "とても",
+			"feature": "副詞",
+			"reading": "トテモ"
+		},
+		{
+			"surface": "静か",
+			"feature": "名詞",
+			"reading": "シズカ"
+		},
+		{
+			"surface": "で",
+			"feature": "助動詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "落ち着く",
+			"feature": "動詞",
+			"reading": "オチツク"
+		},
+		{
+			"surface": "わ",
+			"feature": "助詞",
+			"reading": "ワ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ねえ",
+			"feature": "感動詞",
+			"reading": "ネエ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "君",
+			"feature": "名詞",
+			"reading": "キミ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "本当に",
+			"feature": "副詞",
+			"reading": "ホントウニ"
+		},
+		{
+			"surface": "その",
+			"feature": "連体詞",
+			"reading": "ソノ"
+		},
+		{
+			"surface": "考え",
+			"feature": "名詞",
+			"reading": "カンガエ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "実現",
+			"feature": "名詞",
+			"reading": "ジツゲン"
+		},
+		{
+			"surface": "できる",
+			"feature": "動詞",
+			"reading": "デキル"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "思う",
+			"feature": "動詞",
+			"reading": "オモウ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "？",
+			"feature": "記号",
+			"reading": "？"
+		}
+	],
+	[
+		{
+			"surface": "はい",
+			"feature": "感動詞",
+			"reading": "ハイ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "その",
+			"feature": "連体詞",
+			"reading": "ソノ"
+		},
+		{
+			"surface": "計画",
+			"feature": "名詞",
+			"reading": "ケイカク"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "私",
+			"feature": "名詞",
+			"reading": "ワタシ"
+		},
+		{
+			"surface": "たち",
+			"feature": "名詞",
+			"reading": "タチ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "予算",
+			"feature": "名詞",
+			"reading": "ヨサン"
+		},
+		{
+			"surface": "内",
+			"feature": "名詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "収まる",
+			"feature": "動詞",
+			"reading": "オサマル"
+		},
+		{
+			"surface": "わ",
+			"feature": "助詞",
+			"reading": "ワ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "さあ",
+			"feature": "感動詞",
+			"reading": "サア"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "お",
+			"feature": "接頭詞",
+			"reading": "オ"
+		},
+		{
+			"surface": "祭り",
+			"feature": "名詞",
+			"reading": "マツリ"
+		},
+		{
+			"surface": "気分",
+			"feature": "名詞",
+			"reading": "キブン"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "踊ろ",
+			"feature": "動詞",
+			"reading": "オドロ"
+		},
+		{
+			"surface": "う",
+			"feature": "助動詞",
+			"reading": "ウ"
+		},
+		{
+			"surface": "よ",
+			"feature": "助詞",
+			"reading": "ヨ"
+		},
+		{
+			"surface": "！",
+			"feature": "記号",
+			"reading": "！"
+		}
+	],
+	[
+		{
+			"surface": "あら",
+			"feature": "感動詞",
+			"reading": "アラ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "これ",
+			"feature": "名詞",
+			"reading": "コレ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "新しい",
+			"feature": "形容詞",
+			"reading": "アタラシイ"
+		},
+		{
+			"surface": "トレンド",
+			"feature": "名詞",
+			"reading": "トレンド"
+		},
+		{
+			"surface": "な",
+			"feature": "助動詞",
+			"reading": "ナ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "？",
+			"feature": "記号",
+			"reading": "？"
+		}
+	],
+	[
+		{
+			"surface": "ええ",
+			"feature": "感動詞",
+			"reading": "エエ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "私",
+			"feature": "名詞",
+			"reading": "ワタシ"
+		},
+		{
+			"surface": "たち",
+			"feature": "名詞",
+			"reading": "タチ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "それ",
+			"feature": "名詞",
+			"reading": "ソレ"
+		},
+		{
+			"surface": "について",
+			"feature": "助詞",
+			"reading": "ニツイテ"
+		},
+		{
+			"surface": "熟考",
+			"feature": "名詞",
+			"reading": "ジュッコウ"
+		},
+		{
+			"surface": "し",
+			"feature": "動詞",
+			"reading": "シ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "いる",
+			"feature": "動詞",
+			"reading": "イル"
+		},
+		{
+			"surface": "わ",
+			"feature": "助詞",
+			"reading": "ワ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "おお",
+			"feature": "感動詞",
+			"reading": "オオ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "音楽",
+			"feature": "名詞",
+			"reading": "オンガク"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "私",
+			"feature": "名詞",
+			"reading": "ワタシ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "魅了",
+			"feature": "名詞",
+			"reading": "ミリョウ"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "わ",
+			"feature": "助詞",
+			"reading": "ワ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "やれやれ",
+			"feature": "感動詞",
+			"reading": "ヤレヤレ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "いつも",
+			"feature": "副詞",
+			"reading": "イツモ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "よう",
+			"feature": "名詞",
+			"reading": "ヨウ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "時間",
+			"feature": "名詞",
+			"reading": "ジカン"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "遅れ",
+			"feature": "動詞",
+			"reading": "オクレ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "わ",
+			"feature": "助詞",
+			"reading": "ワ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ああ",
+			"feature": "感動詞",
+			"reading": "アア"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "光景",
+			"feature": "名詞",
+			"reading": "コウケイ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "まるで",
+			"feature": "副詞",
+			"reading": "マルデ"
+		},
+		{
+			"surface": "夢",
+			"feature": "名詞",
+			"reading": "ユメ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "よう",
+			"feature": "名詞",
+			"reading": "ヨウ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ねえ",
+			"feature": "感動詞",
+			"reading": "ネエ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "今日",
+			"feature": "名詞",
+			"reading": "キョウ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "一緒",
+			"feature": "名詞",
+			"reading": "イッショ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "映画",
+			"feature": "名詞",
+			"reading": "エイガ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "見",
+			"feature": "動詞",
+			"reading": "ミ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "行か",
+			"feature": "動詞",
+			"reading": "イカ"
+		},
+		{
+			"surface": "ない",
+			"feature": "助動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "？",
+			"feature": "記号",
+			"reading": "？"
+		}
+	],
+	[
+		{
+			"surface": "えっ",
+			"feature": "感動詞",
+			"reading": "エッ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "本当に",
+			"feature": "副詞",
+			"reading": "ホントウニ"
+		},
+		{
+			"surface": "それ",
+			"feature": "名詞",
+			"reading": "ソレ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "解決",
+			"feature": "名詞",
+			"reading": "カイケツ"
+		},
+		{
+			"surface": "する",
+			"feature": "動詞",
+			"reading": "スル"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "？",
+			"feature": "記号",
+			"reading": "？"
+		}
+	],
+	[
+		{
+			"surface": "あら",
+			"feature": "感動詞",
+			"reading": "アラ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "その",
+			"feature": "連体詞",
+			"reading": "ソノ"
+		},
+		{
+			"surface": "お菓子",
+			"feature": "名詞",
+			"reading": "オカシ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "とても",
+			"feature": "副詞",
+			"reading": "トテモ"
+		},
+		{
+			"surface": "甘く",
+			"feature": "形容詞",
+			"reading": "アマク"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "美味しい",
+			"feature": "形容詞",
+			"reading": "オイシイ"
+		},
+		{
+			"surface": "わ",
+			"feature": "助詞",
+			"reading": "ワ"
+		},
+		{
+			"surface": "ね",
+			"feature": "助詞",
+			"reading": "ネ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "おお",
+			"feature": "感動詞",
+			"reading": "オオ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "絵本",
+			"feature": "名詞",
+			"reading": "エホン"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "主人公",
+			"feature": "名詞",
+			"reading": "シュジンコウ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "とても",
+			"feature": "副詞",
+			"reading": "トテモ"
+		},
+		{
+			"surface": "かわいい",
+			"feature": "形容詞",
+			"reading": "カワイイ"
+		},
+		{
+			"surface": "ね",
+			"feature": "助詞",
+			"reading": "ネ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "あれ",
+			"feature": "感動詞",
+			"reading": "アレ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "虫",
+			"feature": "名詞",
+			"reading": "ムシ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "何",
+			"feature": "名詞",
+			"reading": "ナニ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "虫",
+			"feature": "名詞",
+			"reading": "ムシ"
+		},
+		{
+			"surface": "だろ",
+			"feature": "助動詞",
+			"reading": "ダロ"
+		},
+		{
+			"surface": "う",
+			"feature": "助動詞",
+			"reading": "ウ"
+		},
+		{
+			"surface": "？",
+			"feature": "記号",
+			"reading": "？"
+		}
+	],
+	[
+		{
+			"surface": "やれやれ",
+			"feature": "感動詞",
+			"reading": "ヤレヤレ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "今日",
+			"feature": "名詞",
+			"reading": "キョウ"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "宿題",
+			"feature": "名詞",
+			"reading": "シュクダイ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "山積み",
+			"feature": "名詞",
+			"reading": "ヤマヅミ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ああ",
+			"feature": "感動詞",
+			"reading": "アア"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "あの",
+			"feature": "連体詞",
+			"reading": "アノ"
+		},
+		{
+			"surface": "花畑",
+			"feature": "名詞",
+			"reading": "ハナバタケ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "とても",
+			"feature": "副詞",
+			"reading": "トテモ"
+		},
+		{
+			"surface": "美しい",
+			"feature": "形容詞",
+			"reading": "ウツクシイ"
+		},
+		{
+			"surface": "ね",
+			"feature": "助詞",
+			"reading": "ネ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ねえ",
+			"feature": "感動詞",
+			"reading": "ネエ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "今度",
+			"feature": "名詞",
+			"reading": "コンド"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "日曜日",
+			"feature": "名詞",
+			"reading": "ニチヨウビ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "遊び",
+			"feature": "名詞",
+			"reading": "アソビ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "行こ",
+			"feature": "動詞",
+			"reading": "イコ"
+		},
+		{
+			"surface": "う",
+			"feature": "助動詞",
+			"reading": "ウ"
+		},
+		{
+			"surface": "よ",
+			"feature": "助詞",
+			"reading": "ヨ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "もし",
+			"feature": "副詞",
+			"reading": "モシ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "何",
+			"feature": "名詞",
+			"reading": "ナニ"
+		},
+		{
+			"surface": "か",
+			"feature": "助詞",
+			"reading": "カ"
+		},
+		{
+			"surface": "困っ",
+			"feature": "動詞",
+			"reading": "コマッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "あっ",
+			"feature": "動詞",
+			"reading": "アッ"
+		},
+		{
+			"surface": "たら",
+			"feature": "助動詞",
+			"reading": "タラ"
+		},
+		{
+			"surface": "言っ",
+			"feature": "動詞",
+			"reading": "イッ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "ね",
+			"feature": "助詞",
+			"reading": "ネ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "おや",
+			"feature": "感動詞",
+			"reading": "オヤ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "今日",
+			"feature": "名詞",
+			"reading": "キョウ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "空",
+			"feature": "名詞",
+			"reading": "ソラ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "どんな",
+			"feature": "連体詞",
+			"reading": "ドンナ"
+		},
+		{
+			"surface": "色",
+			"feature": "名詞",
+			"reading": "イロ"
+		},
+		{
+			"surface": "？",
+			"feature": "記号",
+			"reading": "？"
+		}
+	],
+	[
+		{
+			"surface": "うん",
+			"feature": "感動詞",
+			"reading": "ウン"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "そんなに",
+			"feature": "副詞",
+			"reading": "ソンナニ"
+		},
+		{
+			"surface": "難しい",
+			"feature": "形容詞",
+			"reading": "ムズカシイ"
+		},
+		{
+			"surface": "問題",
+			"feature": "名詞",
+			"reading": "モンダイ"
+		},
+		{
+			"surface": "じゃ",
+			"feature": "助詞",
+			"reading": "ジャ"
+		},
+		{
+			"surface": "ない",
+			"feature": "助動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "よ",
+			"feature": "助詞",
+			"reading": "ヨ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "あの",
+			"feature": "連体詞",
+			"reading": "アノ"
+		},
+		{
+			"surface": "かわいい",
+			"feature": "形容詞",
+			"reading": "カワイイ"
+		},
+		{
+			"surface": "犬",
+			"feature": "名詞",
+			"reading": "イヌ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "公園",
+			"feature": "名詞",
+			"reading": "コウエン"
+		},
+		{
+			"surface": "で",
+			"feature": "助動詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "よく",
+			"feature": "形容詞",
+			"reading": "ヨク"
+		},
+		{
+			"surface": "走り回っ",
+			"feature": "動詞",
+			"reading": "ハシリマワッ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "い",
+			"feature": "動詞",
+			"reading": "イ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "おもちゃ",
+			"feature": "名詞",
+			"reading": "オモチャ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "中",
+			"feature": "名詞",
+			"reading": "ナカ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "たくさん",
+			"feature": "名詞",
+			"reading": "タクサン"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "楽しい",
+			"feature": "形容詞",
+			"reading": "タノシイ"
+		},
+		{
+			"surface": "仕掛け",
+			"feature": "名詞",
+			"reading": "シカケ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "隠れ",
+			"feature": "動詞",
+			"reading": "カクレ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "い",
+			"feature": "動詞",
+			"reading": "イ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "あの",
+			"feature": "フィラー",
+			"reading": "アノ"
+		},
+		{
+			"surface": "大きな",
+			"feature": "連体詞",
+			"reading": "オオキナ"
+		},
+		{
+			"surface": "木の下",
+			"feature": "名詞",
+			"reading": "コノシタ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "お",
+			"feature": "接頭詞",
+			"reading": "オ"
+		},
+		{
+			"surface": "弁当",
+			"feature": "名詞",
+			"reading": "ベントウ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "食べる",
+			"feature": "動詞",
+			"reading": "タベル"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "気持ち",
+			"feature": "名詞",
+			"reading": "キモチ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "いい",
+			"feature": "形容詞",
+			"reading": "イイ"
+		},
+		{
+			"surface": "です",
+			"feature": "助動詞",
+			"reading": "デス"
+		},
+		{
+			"surface": "よ",
+			"feature": "助詞",
+			"reading": "ヨ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "その",
+			"feature": "連体詞",
+			"reading": "ソノ"
+		},
+		{
+			"surface": "小さな",
+			"feature": "連体詞",
+			"reading": "チイサナ"
+		},
+		{
+			"surface": "花",
+			"feature": "名詞",
+			"reading": "ハナ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "道端",
+			"feature": "名詞",
+			"reading": "ミチバタ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "咲い",
+			"feature": "動詞",
+			"reading": "サイ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "い",
+			"feature": "動詞",
+			"reading": "イ"
+		},
+		{
+			"surface": "まし",
+			"feature": "助動詞",
+			"reading": "マシ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "お",
+			"feature": "接頭詞",
+			"reading": "オ"
+		},
+		{
+			"surface": "店",
+			"feature": "名詞",
+			"reading": "ミセ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "中",
+			"feature": "名詞",
+			"reading": "ナカ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "おいしい",
+			"feature": "形容詞",
+			"reading": "オイシイ"
+		},
+		{
+			"surface": "ケーキ",
+			"feature": "名詞",
+			"reading": "ケーキ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "たくさん",
+			"feature": "名詞",
+			"reading": "タクサン"
+		},
+		{
+			"surface": "あり",
+			"feature": "動詞",
+			"reading": "アリ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "あの",
+			"feature": "連体詞",
+			"reading": "アノ"
+		},
+		{
+			"surface": "山",
+			"feature": "名詞",
+			"reading": "ヤマ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "登る",
+			"feature": "動詞",
+			"reading": "ノボル"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "きっと",
+			"feature": "副詞",
+			"reading": "キット"
+		},
+		{
+			"surface": "素晴らしい",
+			"feature": "形容詞",
+			"reading": "スバラシイ"
+		},
+		{
+			"surface": "景色",
+			"feature": "名詞",
+			"reading": "ケシキ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "見",
+			"feature": "動詞",
+			"reading": "ミ"
+		},
+		{
+			"surface": "られ",
+			"feature": "動詞",
+			"reading": "ラレ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "本",
+			"feature": "名詞",
+			"reading": "ホン"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "たくさん",
+			"feature": "名詞",
+			"reading": "タクサン"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "冒険",
+			"feature": "名詞",
+			"reading": "ボウケン"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "詰まっ",
+			"feature": "動詞",
+			"reading": "ツマッ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "いる",
+			"feature": "動詞",
+			"reading": "イル"
+		},
+		{
+			"surface": "ん",
+			"feature": "名詞",
+			"reading": "ン"
+		},
+		{
+			"surface": "です",
+			"feature": "助動詞",
+			"reading": "デス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "その",
+			"feature": "連体詞",
+			"reading": "ソノ"
+		},
+		{
+			"surface": "映画",
+			"feature": "名詞",
+			"reading": "エイガ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "子ども",
+			"feature": "名詞",
+			"reading": "コドモ"
+		},
+		{
+			"surface": "たち",
+			"feature": "名詞",
+			"reading": "タチ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "大人気",
+			"feature": "名詞",
+			"reading": "ダイニンキ"
+		},
+		{
+			"surface": "です",
+			"feature": "助動詞",
+			"reading": "デス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "あの",
+			"feature": "連体詞",
+			"reading": "アノ"
+		},
+		{
+			"surface": "人",
+			"feature": "名詞",
+			"reading": "ヒト"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "手作り",
+			"feature": "名詞",
+			"reading": "テヅクリ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "クッキー",
+			"feature": "名詞",
+			"reading": "クッキー"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "とても",
+			"feature": "副詞",
+			"reading": "トテモ"
+		},
+		{
+			"surface": "おいしかっ",
+			"feature": "形容詞",
+			"reading": "オイシカッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "です",
+			"feature": "助動詞",
+			"reading": "デス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "おかしな",
+			"feature": "連体詞",
+			"reading": "オカシナ"
+		},
+		{
+			"surface": "格好",
+			"feature": "名詞",
+			"reading": "カッコウ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "し",
+			"feature": "動詞",
+			"reading": "シ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "人",
+			"feature": "名詞",
+			"reading": "ヒト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "通り",
+			"feature": "名詞",
+			"reading": "トオリ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "歩い",
+			"feature": "動詞",
+			"reading": "アルイ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "いる",
+			"feature": "動詞",
+			"reading": "イル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "いろんな",
+			"feature": "連体詞",
+			"reading": "イロンナ"
+		},
+		{
+			"surface": "色",
+			"feature": "名詞",
+			"reading": "イロ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "花",
+			"feature": "名詞",
+			"reading": "ハナ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "公園",
+			"feature": "名詞",
+			"reading": "コウエン"
+		},
+		{
+			"surface": "いっぱい",
+			"feature": "名詞",
+			"reading": "イッパイ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "咲い",
+			"feature": "動詞",
+			"reading": "サイ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "いる",
+			"feature": "動詞",
+			"reading": "イル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "あらゆる",
+			"feature": "連体詞",
+			"reading": "アラユル"
+		},
+		{
+			"surface": "方法",
+			"feature": "名詞",
+			"reading": "ホウホウ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "試し",
+			"feature": "動詞",
+			"reading": "タメシ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "問題",
+			"feature": "名詞",
+			"reading": "モンダイ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "解決",
+			"feature": "名詞",
+			"reading": "カイケツ"
+		},
+		{
+			"surface": "し",
+			"feature": "動詞",
+			"reading": "シ"
+		},
+		{
+			"surface": "なかっ",
+			"feature": "助動詞",
+			"reading": "ナカッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "我が家",
+			"feature": "名詞",
+			"reading": "ワガヤ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "元気",
+			"feature": "名詞",
+			"reading": "ゲンキ"
+		},
+		{
+			"surface": "な",
+			"feature": "助動詞",
+			"reading": "ナ"
+		},
+		{
+			"surface": "猫",
+			"feature": "名詞",
+			"reading": "ネコ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "二",
+			"feature": "名詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "匹",
+			"feature": "名詞",
+			"reading": "ヒキ"
+		},
+		{
+			"surface": "い",
+			"feature": "動詞",
+			"reading": "イ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "たいした",
+			"feature": "連体詞",
+			"reading": "タイシタ"
+		},
+		{
+			"surface": "力",
+			"feature": "名詞",
+			"reading": "チカラ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "持っ",
+			"feature": "動詞",
+			"reading": "モッ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "い",
+			"feature": "動詞",
+			"reading": "イ"
+		},
+		{
+			"surface": "なく",
+			"feature": "助動詞",
+			"reading": "ナク"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "地道",
+			"feature": "名詞",
+			"reading": "ジミチ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "努力",
+			"feature": "名詞",
+			"reading": "ドリョク"
+		},
+		{
+			"surface": "すれ",
+			"feature": "動詞",
+			"reading": "スレ"
+		},
+		{
+			"surface": "ば",
+			"feature": "助詞",
+			"reading": "バ"
+		},
+		{
+			"surface": "必ず",
+			"feature": "副詞",
+			"reading": "カナラズ"
+		},
+		{
+			"surface": "成果",
+			"feature": "名詞",
+			"reading": "セイカ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "出",
+			"feature": "動詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "よ",
+			"feature": "助詞",
+			"reading": "ヨ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "とんだ",
+			"feature": "連体詞",
+			"reading": "トンダ"
+		},
+		{
+			"surface": "アクシデント",
+			"feature": "名詞",
+			"reading": "アクシデント"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "起き",
+			"feature": "動詞",
+			"reading": "オキ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "旅行",
+			"feature": "名詞",
+			"reading": "リョコウ"
+		},
+		{
+			"surface": "計画",
+			"feature": "名詞",
+			"reading": "ケイカク"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "台無し",
+			"feature": "名詞",
+			"reading": "ダイナシ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "なっ",
+			"feature": "動詞",
+			"reading": "ナッ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "しまっ",
+			"feature": "動詞",
+			"reading": "シマッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "どの",
+			"feature": "連体詞",
+			"reading": "ドノ"
+		},
+		{
+			"surface": "本",
+			"feature": "名詞",
+			"reading": "ホン"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "興味深い",
+			"feature": "形容詞",
+			"reading": "キョウミブカイ"
+		},
+		{
+			"surface": "内容",
+			"feature": "名詞",
+			"reading": "ナイヨウ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "書か",
+			"feature": "動詞",
+			"reading": "カカ"
+		},
+		{
+			"surface": "れ",
+			"feature": "動詞",
+			"reading": "レ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "い",
+			"feature": "動詞",
+			"reading": "イ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "読む",
+			"feature": "動詞",
+			"reading": "ヨム"
+		},
+		{
+			"surface": "の",
+			"feature": "名詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "楽しい",
+			"feature": "形容詞",
+			"reading": "タノシイ"
+		},
+		{
+			"surface": "です",
+			"feature": "助動詞",
+			"reading": "デス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ある",
+			"feature": "連体詞",
+			"reading": "アル"
+		},
+		{
+			"surface": "晴れ",
+			"feature": "動詞",
+			"reading": "ハレ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "日",
+			"feature": "名詞",
+			"reading": "ヒ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "友達",
+			"feature": "名詞",
+			"reading": "トモダチ"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "一緒",
+			"feature": "名詞",
+			"reading": "イッショ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "海",
+			"feature": "名詞",
+			"reading": "ウミ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "遊び",
+			"feature": "名詞",
+			"reading": "アソビ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "行っ",
+			"feature": "動詞",
+			"reading": "イッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "いわゆる",
+			"feature": "連体詞",
+			"reading": "イワユル"
+		},
+		{
+			"surface": "「",
+			"feature": "記号",
+			"reading": "「"
+		},
+		{
+			"surface": "幸せ",
+			"feature": "名詞",
+			"reading": "シアワセ"
+		},
+		{
+			"surface": "」",
+			"feature": "記号",
+			"reading": "」"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "人",
+			"feature": "名詞",
+			"reading": "ヒト"
+		},
+		{
+			"surface": "それぞれ",
+			"feature": "名詞",
+			"reading": "ソレゾレ"
+		},
+		{
+			"surface": "違う",
+			"feature": "動詞",
+			"reading": "チガウ"
+		},
+		{
+			"surface": "もの",
+			"feature": "名詞",
+			"reading": "モノ"
+		},
+		{
+			"surface": "な",
+			"feature": "助動詞",
+			"reading": "ナ"
+		},
+		{
+			"surface": "ん",
+			"feature": "名詞",
+			"reading": "ン"
+		},
+		{
+			"surface": "です",
+			"feature": "助動詞",
+			"reading": "デス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "さる",
+			"feature": "連体詞",
+			"reading": "サル"
+		},
+		{
+			"surface": "有名",
+			"feature": "名詞",
+			"reading": "ユウメイ"
+		},
+		{
+			"surface": "な",
+			"feature": "助動詞",
+			"reading": "ナ"
+		},
+		{
+			"surface": "科学",
+			"feature": "名詞",
+			"reading": "カガク"
+		},
+		{
+			"surface": "者",
+			"feature": "名詞",
+			"reading": "シャ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "発明",
+			"feature": "名詞",
+			"reading": "ハツメイ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "関わっ",
+			"feature": "動詞",
+			"reading": "カカワッ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "いる",
+			"feature": "動詞",
+			"reading": "イル"
+		},
+		{
+			"surface": "そう",
+			"feature": "名詞",
+			"reading": "ソウ"
+		},
+		{
+			"surface": "です",
+			"feature": "助動詞",
+			"reading": "デス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "どんな",
+			"feature": "連体詞",
+			"reading": "ドンナ"
+		},
+		{
+			"surface": "人",
+			"feature": "名詞",
+			"reading": "ヒト"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "自分",
+			"feature": "名詞",
+			"reading": "ジブン"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "できる",
+			"feature": "動詞",
+			"reading": "デキル"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "あり",
+			"feature": "動詞",
+			"reading": "アリ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "とんでも",
+			"feature": "名詞",
+			"reading": "トンデモ"
+		},
+		{
+			"surface": "ない",
+			"feature": "助動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "冗談",
+			"feature": "名詞",
+			"reading": "ジョウダン"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "言わ",
+			"feature": "動詞",
+			"reading": "イワ"
+		},
+		{
+			"surface": "ない",
+			"feature": "助動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "ください",
+			"feature": "動詞",
+			"reading": "クダサイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "そんなに",
+			"feature": "副詞",
+			"reading": "ソンナニ"
+		},
+		{
+			"surface": "遠く",
+			"feature": "形容詞",
+			"reading": "トオク"
+		},
+		{
+			"surface": "まで",
+			"feature": "助詞",
+			"reading": "マデ"
+		},
+		{
+			"surface": "行く",
+			"feature": "動詞",
+			"reading": "イク"
+		},
+		{
+			"surface": "の",
+			"feature": "名詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "大変",
+			"feature": "名詞",
+			"reading": "タイヘン"
+		},
+		{
+			"surface": "です",
+			"feature": "助動詞",
+			"reading": "デス"
+		},
+		{
+			"surface": "ね",
+			"feature": "助詞",
+			"reading": "ネ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "いかなる",
+			"feature": "連体詞",
+			"reading": "イカナル"
+		},
+		{
+			"surface": "理由",
+			"feature": "名詞",
+			"reading": "リユウ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "あっ",
+			"feature": "動詞",
+			"reading": "アッ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "嘘",
+			"feature": "名詞",
+			"reading": "ウソ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "ついては",
+			"feature": "接続詞",
+			"reading": "ツイテハ"
+		},
+		{
+			"surface": "いけ",
+			"feature": "動詞",
+			"reading": "イケ"
+		},
+		{
+			"surface": "ませ",
+			"feature": "助動詞",
+			"reading": "マセ"
+		},
+		{
+			"surface": "ん",
+			"feature": "助動詞",
+			"reading": "ン"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "いわゆる",
+			"feature": "連体詞",
+			"reading": "イワユル"
+		},
+		{
+			"surface": "難問",
+			"feature": "名詞",
+			"reading": "ナンモン"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "解決",
+			"feature": "名詞",
+			"reading": "カイケツ"
+		},
+		{
+			"surface": "策",
+			"feature": "名詞",
+			"reading": "サク"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "見つかる",
+			"feature": "動詞",
+			"reading": "ミツカル"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "あり",
+			"feature": "動詞",
+			"reading": "アリ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "きたる",
+			"feature": "動詞",
+			"reading": "キタル"
+		},
+		{
+			"surface": "べき",
+			"feature": "助動詞",
+			"reading": "ベキ"
+		},
+		{
+			"surface": "試験",
+			"feature": "名詞",
+			"reading": "シケン"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "備え",
+			"feature": "動詞",
+			"reading": "ソナエ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "勉強",
+			"feature": "名詞",
+			"reading": "ベンキョウ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "がんばり",
+			"feature": "動詞",
+			"reading": "ガンバリ"
+		},
+		{
+			"surface": "ましょ",
+			"feature": "助動詞",
+			"reading": "マショ"
+		},
+		{
+			"surface": "う",
+			"feature": "助動詞",
+			"reading": "ウ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ひょんな",
+			"feature": "連体詞",
+			"reading": "ヒョンナ"
+		},
+		{
+			"surface": "出会い",
+			"feature": "名詞",
+			"reading": "デアイ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "大切",
+			"feature": "名詞",
+			"reading": "タイセツ"
+		},
+		{
+			"surface": "な",
+			"feature": "助動詞",
+			"reading": "ナ"
+		},
+		{
+			"surface": "友達",
+			"feature": "名詞",
+			"reading": "トモダチ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "見つける",
+			"feature": "動詞",
+			"reading": "ミツケル"
+		},
+		{
+			"surface": "きっかけ",
+			"feature": "名詞",
+			"reading": "キッカケ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "なる",
+			"feature": "動詞",
+			"reading": "ナル"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "あり",
+			"feature": "動詞",
+			"reading": "アリ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "むこ",
+			"feature": "動詞",
+			"reading": "ムコ"
+		},
+		{
+			"surface": "う",
+			"feature": "助動詞",
+			"reading": "ウ"
+		},
+		{
+			"surface": "側",
+			"feature": "名詞",
+			"reading": "ガワ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "何",
+			"feature": "名詞",
+			"reading": "ナニ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "ある",
+			"feature": "動詞",
+			"reading": "アル"
+		},
+		{
+			"surface": "の",
+			"feature": "名詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "か",
+			"feature": "助詞",
+			"reading": "カ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "気",
+			"feature": "名詞",
+			"reading": "キ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "なっ",
+			"feature": "動詞",
+			"reading": "ナッ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "しょうが",
+			"feature": "名詞",
+			"reading": "ショウガ"
+		},
+		{
+			"surface": "あり",
+			"feature": "動詞",
+			"reading": "アリ"
+		},
+		{
+			"surface": "ませ",
+			"feature": "助動詞",
+			"reading": "マセ"
+		},
+		{
+			"surface": "ん",
+			"feature": "助動詞",
+			"reading": "ン"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "わが国",
+			"feature": "名詞",
+			"reading": "ワガクニ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "四季",
+			"feature": "名詞",
+			"reading": "シキ"
+		},
+		{
+			"surface": "折々",
+			"feature": "副詞",
+			"reading": "オリオリ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "美しい",
+			"feature": "形容詞",
+			"reading": "ウツクシイ"
+		},
+		{
+			"surface": "風景",
+			"feature": "名詞",
+			"reading": "フウケイ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "たくさん",
+			"feature": "名詞",
+			"reading": "タクサン"
+		},
+		{
+			"surface": "あり",
+			"feature": "動詞",
+			"reading": "アリ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "な",
+			"feature": "助詞",
+			"reading": "ナ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "たる",
+			"feature": "助動詞",
+			"reading": "タル"
+		},
+		{
+			"surface": "山道",
+			"feature": "名詞",
+			"reading": "サンドウ"
+		},
+		{
+			"surface": "から",
+			"feature": "助詞",
+			"reading": "カラ"
+		},
+		{
+			"surface": "見る",
+			"feature": "動詞",
+			"reading": "ミル"
+		},
+		{
+			"surface": "景色",
+			"feature": "名詞",
+			"reading": "ケシキ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "素晴らしかっ",
+			"feature": "形容詞",
+			"reading": "スバラシカッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ふとした",
+			"feature": "連体詞",
+			"reading": "フトシタ"
+		},
+		{
+			"surface": "瞬間",
+			"feature": "名詞",
+			"reading": "シュンカン"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "心",
+			"feature": "名詞",
+			"reading": "ココロ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "中",
+			"feature": "名詞",
+			"reading": "ナカ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "感謝",
+			"feature": "名詞",
+			"reading": "カンシャ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "言葉",
+			"feature": "名詞",
+			"reading": "コトバ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "捧げ",
+			"feature": "動詞",
+			"reading": "ササゲ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "みしら",
+			"feature": "動詞",
+			"reading": "ミシラ"
+		},
+		{
+			"surface": "ぬ",
+			"feature": "助動詞",
+			"reading": "ヌ"
+		},
+		{
+			"surface": "人",
+			"feature": "名詞",
+			"reading": "ヒト"
+		},
+		{
+			"surface": "から",
+			"feature": "助詞",
+			"reading": "カラ"
+		},
+		{
+			"surface": "手紙",
+			"feature": "名詞",
+			"reading": "テガミ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "届い",
+			"feature": "動詞",
+			"reading": "トドイ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "嬉しかっ",
+			"feature": "形容詞",
+			"reading": "ウレシカッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "この",
+			"feature": "連体詞",
+			"reading": "コノ"
+		},
+		{
+			"surface": "大きな",
+			"feature": "連体詞",
+			"reading": "オオキナ"
+		},
+		{
+			"surface": "公園",
+			"feature": "名詞",
+			"reading": "コウエン"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "遊ぶ",
+			"feature": "動詞",
+			"reading": "アソブ"
+		},
+		{
+			"surface": "の",
+			"feature": "名詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "好き",
+			"feature": "名詞",
+			"reading": "スキ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "あの",
+			"feature": "フィラー",
+			"reading": "アノ"
+		},
+		{
+			"surface": "小さな",
+			"feature": "連体詞",
+			"reading": "チイサナ"
+		},
+		{
+			"surface": "花",
+			"feature": "名詞",
+			"reading": "ハナ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "とても",
+			"feature": "副詞",
+			"reading": "トテモ"
+		},
+		{
+			"surface": "可愛らしい",
+			"feature": "形容詞",
+			"reading": "カワイラシイ"
+		},
+		{
+			"surface": "ね",
+			"feature": "助詞",
+			"reading": "ネ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "とんだ",
+			"feature": "連体詞",
+			"reading": "トンダ"
+		},
+		{
+			"surface": "災難",
+			"feature": "名詞",
+			"reading": "サイナン"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "起き",
+			"feature": "動詞",
+			"reading": "オキ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "焦っ",
+			"feature": "動詞",
+			"reading": "アセッ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "我が家",
+			"feature": "名詞",
+			"reading": "ワガヤ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "猫",
+			"feature": "名詞",
+			"reading": "ネコ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "とても",
+			"feature": "副詞",
+			"reading": "トテモ"
+		},
+		{
+			"surface": "甘えん坊",
+			"feature": "名詞",
+			"reading": "アマエンボウ"
+		},
+		{
+			"surface": "だ",
+			"feature": "助動詞",
+			"reading": "ダ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "たいした",
+			"feature": "連体詞",
+			"reading": "タイシタ"
+		},
+		{
+			"surface": "努力",
+			"feature": "名詞",
+			"reading": "ドリョク"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "し",
+			"feature": "動詞",
+			"reading": "シ"
+		},
+		{
+			"surface": "なく",
+			"feature": "助動詞",
+			"reading": "ナク"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "できる",
+			"feature": "動詞",
+			"reading": "デキル"
+		},
+		{
+			"surface": "こと",
+			"feature": "名詞",
+			"reading": "コト"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "少ない",
+			"feature": "形容詞",
+			"reading": "スクナイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "おかしな",
+			"feature": "連体詞",
+			"reading": "オカシナ"
+		},
+		{
+			"surface": "言葉",
+			"feature": "名詞",
+			"reading": "コトバ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "言っ",
+			"feature": "動詞",
+			"reading": "イッ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "友達",
+			"feature": "名詞",
+			"reading": "トモダチ"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "笑わせ",
+			"feature": "動詞",
+			"reading": "ワラワセ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "その",
+			"feature": "連体詞",
+			"reading": "ソノ"
+		},
+		{
+			"surface": "時",
+			"feature": "名詞",
+			"reading": "トキ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "あの",
+			"feature": "連体詞",
+			"reading": "アノ"
+		},
+		{
+			"surface": "感覚",
+			"feature": "名詞",
+			"reading": "カンカク"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "今",
+			"feature": "名詞",
+			"reading": "イマ"
+		},
+		{
+			"surface": "でも",
+			"feature": "助詞",
+			"reading": "デモ"
+		},
+		{
+			"surface": "忘れ",
+			"feature": "動詞",
+			"reading": "ワスレ"
+		},
+		{
+			"surface": "られ",
+			"feature": "動詞",
+			"reading": "ラレ"
+		},
+		{
+			"surface": "ない",
+			"feature": "助動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "どの",
+			"feature": "連体詞",
+			"reading": "ドノ"
+		},
+		{
+			"surface": "本",
+			"feature": "名詞",
+			"reading": "ホン"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "読ん",
+			"feature": "動詞",
+			"reading": "ヨン"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "面白く",
+			"feature": "形容詞",
+			"reading": "オモシロク"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "時間",
+			"feature": "名詞",
+			"reading": "ジカン"
+		},
+		{
+			"surface": "を",
+			"feature": "助詞",
+			"reading": "ヲ"
+		},
+		{
+			"surface": "忘れる",
+			"feature": "動詞",
+			"reading": "ワスレル"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "あらゆる",
+			"feature": "連体詞",
+			"reading": "アラユル"
+		},
+		{
+			"surface": "可能",
+			"feature": "名詞",
+			"reading": "カノウ"
+		},
+		{
+			"surface": "性",
+			"feature": "名詞",
+			"reading": "セイ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "ある",
+			"feature": "動詞",
+			"reading": "アル"
+		},
+		{
+			"surface": "と",
+			"feature": "助詞",
+			"reading": "ト"
+		},
+		{
+			"surface": "信じ",
+			"feature": "動詞",
+			"reading": "シンジ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "前向き",
+			"feature": "名詞",
+			"reading": "マエムキ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "生きよ",
+			"feature": "動詞",
+			"reading": "イキヨ"
+		},
+		{
+			"surface": "う",
+			"feature": "助動詞",
+			"reading": "ウ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "あの",
+			"feature": "フィラー",
+			"reading": "アノ"
+		},
+		{
+			"surface": "おかしな",
+			"feature": "連体詞",
+			"reading": "オカシナ"
+		},
+		{
+			"surface": "猫",
+			"feature": "名詞",
+			"reading": "ネコ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "鳴い",
+			"feature": "動詞",
+			"reading": "ナイ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "い",
+			"feature": "動詞",
+			"reading": "イ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "たいした",
+			"feature": "連体詞",
+			"reading": "タイシタ"
+		},
+		{
+			"surface": "問題",
+			"feature": "名詞",
+			"reading": "モンダイ"
+		},
+		{
+			"surface": "で",
+			"feature": "助詞",
+			"reading": "デ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "あり",
+			"feature": "動詞",
+			"reading": "アリ"
+		},
+		{
+			"surface": "ませ",
+			"feature": "助動詞",
+			"reading": "マセ"
+		},
+		{
+			"surface": "ん",
+			"feature": "助動詞",
+			"reading": "ン"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "いろんな",
+			"feature": "連体詞",
+			"reading": "イロンナ"
+		},
+		{
+			"surface": "人",
+			"feature": "名詞",
+			"reading": "ヒト"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "いる",
+			"feature": "動詞",
+			"reading": "イル"
+		},
+		{
+			"surface": "もの",
+			"feature": "名詞",
+			"reading": "モノ"
+		},
+		{
+			"surface": "です",
+			"feature": "助動詞",
+			"reading": "デス"
+		},
+		{
+			"surface": "ね",
+			"feature": "助詞",
+			"reading": "ネ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "あの",
+			"feature": "連体詞",
+			"reading": "アノ"
+		},
+		{
+			"surface": "我が家",
+			"feature": "名詞",
+			"reading": "ワガヤ"
+		},
+		{
+			"surface": "の",
+			"feature": "助詞",
+			"reading": "ノ"
+		},
+		{
+			"surface": "庭",
+			"feature": "名詞",
+			"reading": "ニワ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "花",
+			"feature": "名詞",
+			"reading": "ハナ"
+		},
+		{
+			"surface": "が",
+			"feature": "助詞",
+			"reading": "ガ"
+		},
+		{
+			"surface": "咲い",
+			"feature": "動詞",
+			"reading": "サイ"
+		},
+		{
+			"surface": "て",
+			"feature": "助詞",
+			"reading": "テ"
+		},
+		{
+			"surface": "い",
+			"feature": "動詞",
+			"reading": "イ"
+		},
+		{
+			"surface": "ます",
+			"feature": "助動詞",
+			"reading": "マス"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "どの",
+			"feature": "連体詞",
+			"reading": "ドノ"
+		},
+		{
+			"surface": "小さな",
+			"feature": "連体詞",
+			"reading": "チイサナ"
+		},
+		{
+			"surface": "子供",
+			"feature": "名詞",
+			"reading": "コドモ"
+		},
+		{
+			"surface": "も",
+			"feature": "助詞",
+			"reading": "モ"
+		},
+		{
+			"surface": "可愛い",
+			"feature": "形容詞",
+			"reading": "カワイイ"
+		},
+		{
+			"surface": "です",
+			"feature": "助動詞",
+			"reading": "デス"
+		},
+		{
+			"surface": "ね",
+			"feature": "助詞",
+			"reading": "ネ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
+	],
+	[
+		{
+			"surface": "ある",
+			"feature": "連体詞",
+			"reading": "アル"
+		},
+		{
+			"surface": "時",
+			"feature": "名詞",
+			"reading": "トキ"
+		},
+		{
+			"surface": "、",
+			"feature": "記号",
+			"reading": "、"
+		},
+		{
+			"surface": "私",
+			"feature": "名詞",
+			"reading": "ワタシ"
+		},
+		{
+			"surface": "は",
+			"feature": "助詞",
+			"reading": "ハ"
+		},
+		{
+			"surface": "山",
+			"feature": "名詞",
+			"reading": "ヤマ"
+		},
+		{
+			"surface": "に",
+			"feature": "助詞",
+			"reading": "ニ"
+		},
+		{
+			"surface": "登り",
+			"feature": "動詞",
+			"reading": "ノボリ"
+		},
+		{
+			"surface": "まし",
+			"feature": "助動詞",
+			"reading": "マシ"
+		},
+		{
+			"surface": "た",
+			"feature": "助動詞",
+			"reading": "タ"
+		},
+		{
+			"surface": "。",
+			"feature": "記号",
+			"reading": "。"
+		}
 	]
 ]
