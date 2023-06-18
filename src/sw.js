@@ -1,4 +1,4 @@
-var CACHE_NAME = "2023-04-10 10:20";
+var CACHE_NAME = "2023-06-19 01:00";
 var urlsToCache = [
   "/pppp-ja/",
   "/pppp-ja/index.js",
@@ -10,7 +10,6 @@ var urlsToCache = [
   "/pppp-ja/problems.json",
   "/pppp-ja/favicon/favicon.svg",
   "https://marmooo.github.io/fonts/textar-light.woff2",
-  "https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css",
 ];
 
 self.addEventListener("install", function (event) {
