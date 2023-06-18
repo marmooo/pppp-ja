@@ -89,8 +89,8 @@ function unlockAudio() {
 function loadProblems() {
   fetch(`problems.json`)
     .then((response) => response.json())
-    .then((json) => {
-      problems = json;
+    .then((data) => {
+      problems = data;
     }).catch((err) => {
       console.error(err);
     });
@@ -294,7 +294,6 @@ function countdown() {
 function startGame() {
   clearInterval(gameTimer);
   initTime();
-  loadProblems();
   countdown();
 }
 
@@ -336,9 +335,12 @@ function showAnswer() {
   }, 5000);
 }
 
+loadProblems();
+
 document.getElementById("toggleDarkMode").onclick = toggleDarkMode;
 document.getElementById("toggleBGM").onclick = toggleBGM;
 document.getElementById("startButton").onclick = startGame;
+document.getElementById("restartButton").onclick = startGame;
 document.getElementById("answerButton").onclick = showAnswer;
 document.addEventListener("click", unlockAudio, {
   once: true,
