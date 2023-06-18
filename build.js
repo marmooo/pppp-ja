@@ -97,7 +97,13 @@ function filterProblems(problems) {
   return problems.filter((morphemes) => {
     const count = morphemes
       .filter((morpheme) => morpheme.feature == "助詞").length;
-    if (count > 1) return true;
+    if (count <= 1) return false;
+    const ppps = morphemes.filter((morpheme) => {
+      return (morpheme.feature == "助詞") ? true : false;
+    });
+    const set = new Set();
+    ppps.forEach((morpheme) => set.add(morpheme.surface));
+    return (set.size != 1) ? true : false;
   });
 }
 

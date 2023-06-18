@@ -11971,53 +11971,6 @@
 	],
 	[
 		{
-			"surface": "みんな",
-			"feature": "名詞",
-			"reading": "ミンナ"
-		},
-		{
-			"surface": "で",
-			"feature": "助詞",
-			"reading": "デ"
-		},
-		{
-			"surface": "遊ん",
-			"feature": "動詞",
-			"reading": "アソン"
-		},
-		{
-			"surface": "で",
-			"feature": "助詞",
-			"reading": "デ"
-		},
-		{
-			"surface": "、",
-			"feature": "記号",
-			"reading": "、"
-		},
-		{
-			"surface": "たくさん",
-			"feature": "名詞",
-			"reading": "タクサン"
-		},
-		{
-			"surface": "笑お",
-			"feature": "動詞",
-			"reading": "ワラオ"
-		},
-		{
-			"surface": "う",
-			"feature": "助動詞",
-			"reading": "ウ"
-		},
-		{
-			"surface": "。",
-			"feature": "記号",
-			"reading": "。"
-		}
-	],
-	[
-		{
 			"surface": "お母さん",
 			"feature": "名詞",
 			"reading": "オカアサン"
@@ -12226,58 +12179,6 @@
 	],
 	[
 		{
-			"surface": "おじいちゃん",
-			"feature": "名詞",
-			"reading": "オジイチャン"
-		},
-		{
-			"surface": "、",
-			"feature": "記号",
-			"reading": "、"
-		},
-		{
-			"surface": "お",
-			"feature": "接頭詞",
-			"reading": "オ"
-		},
-		{
-			"surface": "ばあちゃん",
-			"feature": "名詞",
-			"reading": "バアチャン"
-		},
-		{
-			"surface": "に",
-			"feature": "助詞",
-			"reading": "ニ"
-		},
-		{
-			"surface": "会い",
-			"feature": "動詞",
-			"reading": "アイ"
-		},
-		{
-			"surface": "に",
-			"feature": "助詞",
-			"reading": "ニ"
-		},
-		{
-			"surface": "行こ",
-			"feature": "動詞",
-			"reading": "イコ"
-		},
-		{
-			"surface": "う",
-			"feature": "助動詞",
-			"reading": "ウ"
-		},
-		{
-			"surface": "。",
-			"feature": "記号",
-			"reading": "。"
-		}
-	],
-	[
-		{
 			"surface": "お父さん",
 			"feature": "名詞",
 			"reading": "オトウサン"
@@ -12447,43 +12348,6 @@
 			"surface": "よ",
 			"feature": "助詞",
 			"reading": "ヨ"
-		},
-		{
-			"surface": "。",
-			"feature": "記号",
-			"reading": "。"
-		}
-	],
-	[
-		{
-			"surface": "ゴールデンウィーク",
-			"feature": "名詞",
-			"reading": "ゴールデンウィーク"
-		},
-		{
-			"surface": "に",
-			"feature": "助詞",
-			"reading": "ニ"
-		},
-		{
-			"surface": "旅行",
-			"feature": "名詞",
-			"reading": "リョコウ"
-		},
-		{
-			"surface": "に",
-			"feature": "助詞",
-			"reading": "ニ"
-		},
-		{
-			"surface": "行こ",
-			"feature": "動詞",
-			"reading": "イコ"
-		},
-		{
-			"surface": "う",
-			"feature": "助動詞",
-			"reading": "ウ"
 		},
 		{
 			"surface": "。",
@@ -30995,68 +30859,6 @@
 	],
 	[
 		{
-			"surface": "美味しい",
-			"feature": "形容詞",
-			"reading": "オイシイ"
-		},
-		{
-			"surface": "料理",
-			"feature": "名詞",
-			"reading": "リョウリ"
-		},
-		{
-			"surface": "だっ",
-			"feature": "助動詞",
-			"reading": "ダッ"
-		},
-		{
-			"surface": "た",
-			"feature": "助動詞",
-			"reading": "タ"
-		},
-		{
-			"surface": "が",
-			"feature": "助詞",
-			"reading": "ガ"
-		},
-		{
-			"surface": "、",
-			"feature": "記号",
-			"reading": "、"
-		},
-		{
-			"surface": "量",
-			"feature": "名詞",
-			"reading": "リョウ"
-		},
-		{
-			"surface": "が",
-			"feature": "助詞",
-			"reading": "ガ"
-		},
-		{
-			"surface": "少な",
-			"feature": "形容詞",
-			"reading": "スクナ"
-		},
-		{
-			"surface": "すぎ",
-			"feature": "動詞",
-			"reading": "スギ"
-		},
-		{
-			"surface": "た",
-			"feature": "助動詞",
-			"reading": "タ"
-		},
-		{
-			"surface": "。",
-			"feature": "記号",
-			"reading": "。"
-		}
-	],
-	[
-		{
 			"surface": "この",
 			"feature": "連体詞",
 			"reading": "コノ"
@@ -33789,58 +33591,6 @@
 	],
 	[
 		{
-			"surface": "学校",
-			"feature": "名詞",
-			"reading": "ガッコウ"
-		},
-		{
-			"surface": "が",
-			"feature": "助詞",
-			"reading": "ガ"
-		},
-		{
-			"surface": "終わっ",
-			"feature": "動詞",
-			"reading": "オワッ"
-		},
-		{
-			"surface": "た",
-			"feature": "助動詞",
-			"reading": "タ"
-		},
-		{
-			"surface": "。",
-			"feature": "記号",
-			"reading": "。"
-		},
-		{
-			"surface": "しかし",
-			"feature": "接続詞",
-			"reading": "シカシ"
-		},
-		{
-			"surface": "宿題",
-			"feature": "名詞",
-			"reading": "シュクダイ"
-		},
-		{
-			"surface": "が",
-			"feature": "助詞",
-			"reading": "ガ"
-		},
-		{
-			"surface": "ある",
-			"feature": "動詞",
-			"reading": "アル"
-		},
-		{
-			"surface": "。",
-			"feature": "記号",
-			"reading": "。"
-		}
-	],
-	[
-		{
 			"surface": "趣味",
 			"feature": "名詞",
 			"reading": "シュミ"
@@ -34753,73 +34503,6 @@
 			"surface": "作る",
 			"feature": "動詞",
 			"reading": "ツクル"
-		},
-		{
-			"surface": "。",
-			"feature": "記号",
-			"reading": "。"
-		}
-	],
-	[
-		{
-			"surface": "ハンバーガー",
-			"feature": "名詞",
-			"reading": "ハンバーガー"
-		},
-		{
-			"surface": "を",
-			"feature": "助詞",
-			"reading": "ヲ"
-		},
-		{
-			"surface": "作る",
-			"feature": "動詞",
-			"reading": "ツクル"
-		},
-		{
-			"surface": "。",
-			"feature": "記号",
-			"reading": "。"
-		},
-		{
-			"surface": "だから",
-			"feature": "接続詞",
-			"reading": "ダカラ"
-		},
-		{
-			"surface": "、",
-			"feature": "記号",
-			"reading": "、"
-		},
-		{
-			"surface": "たくさん",
-			"feature": "名詞",
-			"reading": "タクサン"
-		},
-		{
-			"surface": "具",
-			"feature": "名詞",
-			"reading": "グ"
-		},
-		{
-			"surface": "材",
-			"feature": "名詞",
-			"reading": "ザイ"
-		},
-		{
-			"surface": "を",
-			"feature": "助詞",
-			"reading": "ヲ"
-		},
-		{
-			"surface": "用意",
-			"feature": "名詞",
-			"reading": "ヨウイ"
-		},
-		{
-			"surface": "する",
-			"feature": "動詞",
-			"reading": "スル"
 		},
 		{
 			"surface": "。",
