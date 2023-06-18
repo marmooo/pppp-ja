@@ -319,8 +319,8 @@ function initTime() {
 }
 
 function scoring() {
-  document.getElementById("score").textContent = problemCount - incorrectCount;
-  document.getElementById("count").textContent = problemCount;
+  document.getElementById("score").textContent = problemCount;
+  document.getElementById("count").textContent = problemCount + incorrectCount;
 }
 
 function showAnswer() {
