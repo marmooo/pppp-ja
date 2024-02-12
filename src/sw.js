@@ -1,4 +1,4 @@
-const CACHE_NAME = "2023-10-07 10:20";
+const CACHE_NAME = "2024-02-13 00:10";
 const urlsToCache = [
   "/pppp-ja/",
   "/pppp-ja/index.js",

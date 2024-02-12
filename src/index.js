@@ -197,11 +197,11 @@ function choiceClickEvent(event) {
       .filter((morpheme) => morpheme.classList.contains("choice"))
       .map((morpheme) => morpheme.textContent).join("");
     if (replyText == answerText) {
-      playAudio("correct");
+      playAudio("correct", 0.3);
       nextProblem();
     } else {
       mistaken = true;
-      playAudio("incorrect");
+      playAudio("incorrect", 0.3);
     }
   } else {
     playAudio("keyboard");
