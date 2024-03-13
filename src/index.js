@@ -15,7 +15,7 @@ let incorrectCount = 0;
 let mistaken = false;
 let problems = [];
 let answerText;
-const audioContext = new AudioContext();
+const audioContext = new globalThis.AudioContext();
 const audioBufferCache = {};
 loadAudio("keyboard", "mp3/keyboard.mp3");
 loadAudio("end", "mp3/end.mp3");
