@@ -107,14 +107,10 @@ function playAudio(name, volume) {
   sourceNode.start();
 }
 
-function loadProblems() {
-  fetch(`problems.json`)
-    .then((response) => response.json())
-    .then((data) => {
-      problems = data;
-    }).catch((err) => {
-      console.error(err);
-    });
+async function loadProblems() {
+  const response = await fetch(`problems.json`);
+  const json = await response.json();
+  problems = json;
 }
 
 function nextProblem() {
