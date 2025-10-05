@@ -1,3 +1,5 @@
+import { createWorker } from "https://cdn.jsdelivr.net/npm/emoji-particle@0.0.4/+esm";
+
 const playPanel = document.getElementById("playPanel");
 const infoPanel = document.getElementById("infoPanel");
 const countPanel = document.getElementById("countPanel");
@@ -10,9 +12,10 @@ let gameTimer;
 const bgm = new Audio("mp3/bgm.mp3");
 bgm.volume = 0.1;
 bgm.loop = true;
+const emojiParticle = initEmojiParticle();
+let consecutiveWins = 0;
 let problemCount = 0;
 let incorrectCount = 0;
-let mistaken = false;
 let problems = [];
 let answerText;
 let audioContext;
@@ -107,6 +110,30 @@ function playAudio(name, volume) {
   sourceNode.start();
 }
 
+function initEmojiParticle() {
+  const canvas = document.createElement("canvas");
+  Object.assign(canvas.style, {
+    position: "fixed",
+    pointerEvents: "none",
+    top: "0px",
+    left: "0px",
+  });
+  canvas.width = document.documentElement.clientWidth;
+  canvas.height = document.documentElement.clientHeight;
+  document.body.prepend(canvas);
+
+  const offscreen = canvas.transferControlToOffscreen();
+  const worker = createWorker();
+  worker.postMessage({ type: "init", canvas: offscreen }, [offscreen]);
+
+  globalThis.addEventListener("resize", () => {
+    const width = document.documentElement.clientWidth;
+    const height = document.documentElement.clientHeight;
+    worker.postMessage({ type: "resize", width, height });
+  });
+  return { canvas, offscreen, worker };
+}
+
 async function loadProblems() {
   const response = await fetch(`problems.json`);
   const json = await response.json();
@@ -114,9 +141,18 @@ async function loadProblems() {
 }
 
 function nextProblem() {
+  for (let i = 0; i < consecutiveWins; i++) {
+    emojiParticle.worker.postMessage({
+      type: "spawn",
+      options: {
+        particleType: "popcorn",
+        originX: Math.random() * emojiParticle.canvas.width,
+        originY: Math.random() * emojiParticle.canvas.height,
+      },
+    });
+  }
   problemCount += 1;
-  if (mistaken) incorrectCount += 1;
-  mistaken = false;
+  if (consecutiveWins === 0) incorrectCount += 1;
   setProblem();
 }
 
@@ -214,10 +250,11 @@ function choiceClickEvent(event) {
       .filter((morpheme) => morpheme.classList.contains("choice"))
       .map((morpheme) => morpheme.textContent).join("");
     if (replyText == answerText) {
+      consecutiveWins += 1;
       playAudio("correct", 0.3);
       nextProblem();
     } else {
-      mistaken = true;
+      consecutiveWins = 0;
       playAudio("incorrect", 0.3);
     }
   } else {
@@ -281,7 +318,6 @@ function setProblem() {
 }
 
 function countdown() {
-  problemCount = incorrectCount = 0;
   countPanel.classList.remove("d-none");
   infoPanel.classList.add("d-none");
   playPanel.classList.add("d-none");
@@ -295,6 +331,8 @@ function countdown() {
       counter.style.backgroundColor = colors[t];
       counter.textContent = t;
     } else {
+      problemCount = incorrectCount = 0;
+      consecutiveWins = 0;
       clearInterval(timer);
       countPanel.classList.add("d-none");
       infoPanel.classList.remove("d-none");
@@ -341,7 +379,7 @@ function scoring() {
 }
 
 function showAnswer() {
-  mistaken = true;
+  consecutiveWins = 0;
   [...japanese.children].forEach((morpheme) => {
     if (morpheme.classList.contains("choice")) {
       morpheme.textContent = morpheme.dataset.answer;
